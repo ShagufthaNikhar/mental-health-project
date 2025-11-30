@@ -1,0 +1,699 @@
+{
+  "title": "مائنڈ اسپیس",
+  "welcome": "مائنڈ اسپیس میں خوش آمدید 💙",
+  
+  "journal": "ذاتی جرنل",
+  "chatbot": "مائنڈ میٹ چیٹ بوٹ",
+  "appointments": "اپوائنٹمنٹ بک کریں",
+  "crisis": "ہنگامی ہیلپ لائن",
+  "resources": "وسائل کا مرکز",
+  "assessment": "خود تشخیص",
+  
+  
+  "gad7_title": "GAD-7 اضطراب ٹیسٹ",
+  "gad7_q1": "گھبراہٹ یا بے چینی محسوس کرنا",
+  "gad7_q2": "فکر کو روک نہ پانا یا قابو میں نہ رکھ پانا",
+  "gad7_q3": "بہت سی چیزوں کے بارے میں زیادہ پریشان رہنا",
+  "gad7_q4": "آرام نہ کر پانا",
+  "gad7_q5": "اتنا بے چین رہنا کہ بیٹھنا مشکل ہو جائے",
+  "gad7_q6": "آسانی سے غصہ یا چڑچڑا پن آنا",
+  "gad7_q7": "ایسا محسوس ہونا جیسے کچھ برا ہونے والا ہے",
+
+  "phq9_title": "PHQ-9 افسردگی ٹیسٹ",
+  "phq9_q1": "کسی چیز میں دلچسپی یا خوشی نہ ہونا",
+  "phq9_q2": "مایوسی یا اداسی محسوس کرنا",
+  "phq9_q3": "نیند نہ آنا یا بہت زیادہ سونا",
+  "phq9_q4": "تھکن یا توانائی کی کمی محسوس کرنا",
+  "phq9_q5": "بھوک نہ لگنا یا بہت زیادہ کھانا",
+  "phq9_q6": "خود کے بارے میں برا محسوس کرنا",
+  "phq9_q7": "توجہ مرکوز کرنے میں دشواری",
+  "phq9_q8": "آہستہ بولنا یا بہت بے چین رہنا",
+  "phq9_q9": "خود کو نقصان پہنچانے یا مرنے کے خیالات آنا",
+
+  "pss10_title": "PSS-10 دباؤ کی پیمائش",
+  "pss10_q1": "کتنی بار آپ غیر متوقع واقعات سے پریشان ہوئے؟",
+  "pss10_q2": "کتنی بار آپ کو لگا کہ آپ اہم چیزوں کو کنٹرول نہیں کر سکتے؟",
+  "pss10_q3": "کتنی بار آپ کو تناؤ یا دباؤ محسوس ہوا؟",
+  "pss10_q4": "کتنی بار آپ کو اپنی مشکلات کو سنبھالنے کا یقین تھا؟",
+  "pss10_q5": "کتنی بار آپ کو لگا کہ چیزیں آپ کے مطابق ہو رہی ہیں؟",
+  "pss10_q6": "کتنی بار آپ کو لگا کہ آپ سب کچھ نہیں کر سکتے؟",
+  "pss10_q7": "کتنی بار آپ نے اپنے غصے پر قابو پایا؟",
+  "pss10_q8": "کتنی بار آپ کو لگا کہ سب کچھ آپ کے کنٹرول میں ہے؟",
+  "pss10_q9": "کتنی بار آپ کو بیرونی چیزوں پر غصہ آیا؟",
+  "pss10_q10": "کتنی بار آپ کو لگا کہ مشکلات بہت زیادہ بڑھ گئی ہیں؟",
+
+  "who5_title": "WHO-5 فلاح و بہبود کا اشاریہ",
+  "who5_q1": "میں خوش اور اچھے موڈ میں رہا ہوں",
+  "who5_q2": "میں پُرسکون اور آرام دہ رہا ہوں",
+  "who5_q3": "میں سرگرم اور پُرجوش رہا ہوں",
+  "who5_q4": "میں تازگی کے ساتھ جاگا ہوں",
+  "who5_q5": "میری روزمرہ زندگی دلچسپ چیزوں سے بھری رہی ہے",
+
+  "not_at_all": "بالکل نہیں",
+  "several_days": "چند دن",
+  "more_than_half": "آدھے سے زیادہ دن",
+  "nearly_every_day": "تقریباً ہر روز",
+
+  "never": "کبھی نہیں",
+  "almost_never": "شاید ہی کبھی",
+  "sometimes": "کبھی کبھی",
+  "fairly_often": "اکثر",
+  "very_often": "بہت زیادہ",
+
+  "calculate_score": "اسکور نکالیں",
+  "select_option": "ایک آپشن منتخب کریں",
+  "total_score": "کل اسکور",
+  "interpretation": "تشریح",
+  "disclaimer": "🌿 یہ کوئی تشخیص نہیں — یہ صرف آپ کی ذہنی حالت کو سمجھنے کا ایک ذریعہ ہے۔",
+
+  "normal": "نارمل",
+  "severe_anxiety": "شدید اضطراب",
+  "moderate_anxiety": "درمیانہ اضطراب",
+  "mild_anxiety": "ہلکا اضطراب",
+  "severe_depression": "شدید افسردگی",
+  "moderate_depression": "درمیانی افسردگی",
+  "mild_depression": "ہلکی افسردگی",
+  "high_stress": "زیادہ دباؤ",
+  "moderate_stress": "درمیانہ دباؤ",
+  "low_stress": "کم دباؤ",
+  "possible_depression": "ممکنہ افسردگی (کم فلاح)",
+  "good_wellbeing": "اچھی ذہنی صحت",
+
+  
+  "anxiety_test": "بے چینی (GAD-7)",
+  "depression_test": "ڈپریشن (PHQ-9)",
+  "stress_test": "تناؤ (PSS-10)",
+  "wellbeing_test": "فلاح و بہبود (WHO-5)",
+  
+  "quote_title": "روزانہ کی ترغیب",
+  "new_quote": "نیا اقتباس 🌤️",
+  "quotes_list": [
+    "تمہیں اپنے خیالات پر قابو پانے کی ضرورت نہیں، بس انہیں تم پر قابو پانے نہ دو۔ – ڈین مل مین",
+    "جہاں ہو وہیں سے آغاز کرو، جو پاس ہے اس کا استعمال کرو، جو کرسکتے ہو وہ کرو۔ – آرتھر ایش",
+    "ہر دن اچھا نہیں ہوتا، لیکن ہر دن میں کچھ اچھا ضرور ہوتا ہے۔ – ایلس ارل",
+    "تم، خود، پوری کائنات میں کسی کے برابر، اپنی محبت اور توجہ کے مستحق ہو۔ – بدھ",
+    "ٹھیک نہ ہونا بھی ٹھیک ہے، جب تک تم ہار نہیں مانتے۔ – کیرن سالمانسون",
+    "خود پر صبر کرو، فطرت میں کچھ بھی سارا سال نہیں کھلتا۔ 🌸",
+    "امن اس وقت شروع ہوتا ہے جب تم فیصلہ کرتے ہو کہ کوئی اور تمہارے جذبات پر قابو نہیں پائے گا۔ – پیما چوڈرن",
+    "تم اپنی بے چینی نہیں، بلکہ اس کے نیچے کی سکون ہو۔ 🌿",
+    "خوشی مسائل کے نہ ہونے کا نام نہیں بلکہ ان سے نمٹنے کی صلاحیت ہے۔ – اسٹیو مارابولی",
+    "خود کے لیے وقت نکالو جب تک تم دوبارہ تم نہ بن جاؤ۔ 💫"
+  ],
+
+ "journal_title": "میرا جرنل",
+  "journal_description": "اپنے دن پر غور کریں، اپنے جذبات کا اظہار کریں یا آزادانہ طور پر لکھیں۔ 🌿",
+  "journal_placeholder": "یہاں اپنے خیالات لکھیں...",
+  "journal_save": "انٹری محفوظ کریں",
+  "journal_saving": "محفوظ کیا جا رہا ہے...",
+  "journal_previous": "پچھلی انٹریاں",
+  "journal_no_entries": "ابھی کوئی انٹری نہیں — آج ہی اپنی کہانی شروع کریں۔ 💫",
+  "journal_empty_error": "براہ کرم پہلے کچھ لکھیں!",
+  "journal_error_save": "انٹری محفوظ نہیں ہو سکی۔",
+  "journal_error_load": "جرنل لوڈ کرنے میں خرابی۔",
+
+  "mood_tracker": "موڈ ٹریکر",
+  "mood_description": "اپنے روزمرہ کے جذبات کا ریکارڈ رکھیں اور جانیں کہ آپ کے موڈ کو کیا متاثر کرتا ہے۔ 💭",
+  "mood_question": "آج آپ کیسا محسوس کر رہے ہیں؟",
+  "mood_level": "موڈ کی سطح",
+  "mood_placeholder": "اپنے دن کے بارے میں ایک چھوٹا نوٹ یا خیال لکھیں...",
+  "mood_save": "موڈ محفوظ کریں 💖",
+  "mood_saving": "محفوظ کیا جا رہا ہے...",
+  "mood_history": "موڈ کی تاریخ",
+  "mood_no_entries": "ابھی کوئی اندراج نہیں — آج ہی اپنا موڈ ٹریک کرنا شروع کریں 🌈",
+  "mood_error": "موڈ محفوظ نہیں ہو سکا۔ دوبارہ کوشش کریں!",
+
+  "nav_home": "ہوم",
+  "nav_chatbot": "چیٹ بوٹ",
+  "nav_mood": "موڈ ٹریکر",
+  "nav_journal": "جرنل",
+  "nav_appointments": "اپائنٹمنٹس",
+  "nav_resources": "وسائل",
+  "nav_assessment": "خود تشخیص",
+  "nav_sleep": "نیند",
+  "nav_dreams": "خواب",
+  "nav_community": "کمیونٹی",
+  "nav_dashboard": "ڈیش بورڈ",
+
+  "resources_description": "مائنڈفلنیس مضامین، رہنمائی شدہ آڈیوز، نیند کے لیے پرسکون آوازیں اور دیگر مفید ذرائع دریافت کریں — جو آپ کی ذہنی صحت کو بہتر بنانے کے لیے تیار کیے گئے ہیں۔",
+  "resources_loading": "وسائل لوڈ ہو رہے ہیں...",
+  "resources_empty": "ابھی کوئی وسائل دستیاب نہیں ہیں۔",
+  "resources_open": "کھولیں",
+
+  "assessment_dashboard": "تشخیص ڈیش بورڈ",
+  "assessment_dashboard_title": "تشخیص کی پیش رفت کا ڈیش بورڈ",
+  "no_assessment_data": "ابھی تک کوئی تشخیص ڈیٹا نہیں 🌱 اپنی ترقی کو ٹریک کرنے کے لیے کچھ خود تشخیصات کریں۔",
+  "wellbeing_insights": "خیریت کی بصیرتیں",
+  "tracking_message": "مسلسل ٹریکنگ آپ کو جذباتی نمونوں اور وقت کے ساتھ پیش رفت کو سمجھنے میں مدد دیتی ہے۔",
+  "progress_for": "{{type}} کی پیش رفت",
+  "average_score": "اوسط اسکور",
+
+  "sleep": "نیند کی آوازیں",
+  "sleep_sounds_title": "نیند اور ASMR کی آوازیں",
+  "sleep_sounds_loading": "پُرسکون آوازیں لوڈ ہو رہی ہیں...",
+  "sleep_sounds_empty": "ابھی کوئی آواز دستیاب نہیں ہے۔",
+  "sleep_sounds_play": "چلائیں",
+  "sleep_sounds_stop": "روکیں",
+
+  "dreams": "خوابوں کا ٹریکر",
+  "community": "کمیونٹی",
+  "dashboard": "ادارہ ڈیش بورڈ",
+  "emergency_contacts": "ہنگامی رابطے",
+  "create_account": "🌱 نیا اکاؤنٹ بنائیں",
+  "welcome_back": "🔐 دوبارہ خوش آمدید",
+  "signup_message": "MindSpace میں شامل ہوں اور اپنی خود کی دیکھ بھال کا سفر شروع کریں 💖",
+  "login_message": "اپنی ذہنی سکون سے دوبارہ جڑنے کے لیے لاگ ان کریں ☁️",
+  "email": "ای میل",
+  "password": "پاس ورڈ",
+  "processing": "پروسیسنگ جاری ہے...",
+  "sign_up": "سائن اپ کریں",
+  "login": "لاگ ان",
+  "no_account": "اکاؤنٹ نہیں ہے؟ نیا اکاؤنٹ بنائیں 🌿",
+  "have_account": "پہلے سے اکاؤنٹ ہے؟ لاگ ان کریں 🔑",
+  "enter_email_password": "براہ کرم ای میل اور پاس ورڈ درج کریں 🌼",
+  "welcome_user": "دوبارہ خوش آمدید،",
+  "continue_journey": "سکون کی طرف اپنا سفر جاری رکھیں 🌤️",
+  "logout": "لاگ آؤٹ",
+  "change_lang": "زبان تبدیل کریں",
+  
+  "loading": "لوڈ ہو رہا ہے...",
+
+  "play": "چلائیں",
+  "stop": "روکیں",
+  
+  "institution_loading": "ادارے کی معلومات لوڈ ہو رہی ہیں...",
+  "institution_title": "ادارہ ڈیش بورڈ",
+  "institution_subtitle": "مجموعی جذباتی صحت، جائزے اور مشغولیت کے رجحانات کو ٹریک کریں 🌈",
+  "institution_users": "فعال صارفین",
+  "institution_appointments": "کل اپائنٹمنٹس",
+  "institution_data_freshness": "ڈیٹا تازگی",
+  "institution_mood": "موڈ کی تقسیم",
+  "institution_no_mood": "ابھی کوئی موڈ ڈیٹا دستیاب نہیں۔",
+  "institution_assessment": "تشخیص کی اوسط",
+  "institution_no_assessment": "ابھی کوئی تشخیصی ڈیٹا دستیاب نہیں۔",
+  "institution_footer": "🌱 ڈیٹا کو گمنام رکھا جاتا ہے اور ادارہ جاتی بصیرت کے لیے خود بخود اپ ڈیٹ کیا جاتا ہے۔",
+
+  "emergency_title": "ایمرجنسی رابطے",
+  "emergency_subtitle": "ضرورت کے وقت مدد کے لیے اپنے قابل اعتماد رابطوں کو قریب رکھیں 💙",
+  "emergency_name": "نام",
+  "emergency_phone": "فون نمبر",
+  "emergency_relation": "رشتہ",
+  "emergency_add": "شامل کریں",
+  "emergency_saving": "محفوظ کیا جا رہا ہے...",
+  "emergency_no_contacts": "ابھی کوئی رابطے نہیں — تیار رہنے کے لیے ایک شامل کریں 💫",
+  "emergency_missing_fields": "براہ کرم نام اور فون نمبر درج کریں!",
+  "emergency_error_add": "رابطہ شامل کرنے میں ناکامی۔",
+  "emergency_error_delete": "رابطہ حذف کرنے میں ناکامی۔",
+  "emergency_error_load": "رابطے لوڈ کرنے میں خرابی۔",
+  "emergency_confirm_delete": "کیا آپ اس رابطے کو حذف کرنا چاہتے ہیں؟",
+
+   "crisis_title": "بحران ہیلپ لائنز",
+  "crisis_description": "اگر آپ یا کوئی آپ کا جاننے والا پریشانی میں ہے تو براہ کرم ابھی مدد حاصل کریں۔ 💖 آپ اکیلے نہیں ہیں — مدد دستیاب ہے، اور آپ اہم ہیں۔",
+  "crisis_no_contacts": "فی الحال کوئی ہیلپ لائن دستیاب نہیں۔",
+  "crisis_call_now": "ابھی کال کریں 📞",
+  "crisis_footer": "یاد رکھیں — مدد مانگنا طاقت کی علامت ہے 💪",
+  "crisis_error_load": "ہیلپ لائن ڈیٹا لوڈ کرنے میں ناکامی۔",
+
+  "chatbot_title": "مائنڈ میٹ اے آئی",
+  "chatbot_greeting": "ہیلو 👋 میں مائنڈ میٹ ہوں — آپ کا ذہنی سکون کا ساتھی 💙 آپ مجھ سے کسی بھی وقت بات کر سکتے ہیں",
+  "chatbot_thinking": "ہمم، مجھے ایک لمحہ سوچنے دیں 💭",
+  "chatbot_error": "⚠️ معذرت، فی الحال رابطہ ممکن نہیں۔ جلد دوبارہ کوشش کریں 💙",
+  "chatbot_clear": "صاف کریں",
+  "chatbot_confirm_clear": "کیا آپ ساری چیٹ حذف کرنا چاہتے ہیں؟",
+  "chatbot_cleared": "چیٹ حذف کر دی گئی! نیا مکالمہ شروع کرتے ہیں 🌱",
+  "chatbot_no_speech": "آواز کی پہچان کی سہولت دستیاب نہیں 😢",
+  "chatbot_typing": "مائنڈ میٹ لکھ رہا ہے...",
+  "chatbot_placeholder": "اپنا پیغام لکھیں یا بولیں...",
+  "chatbot_send": "بھیجیں",
+
+  "appointments_title": "اپائنٹمنٹ بُک کریں",
+  "appointments_name": "آپ کا نام",
+  "appointments_email": "آپ کا ای میل",
+  "appointments_select_slot": "وقت منتخب کریں",
+  "appointments_confirm": "اپائنٹمنٹ کی تصدیق کریں",
+  "appointments_success": "اپائنٹمنٹ کی تصدیق ہوگئی!",
+  "appointments_success_message": "آپ کی اپائنٹمنٹ کامیابی سے بُک ہوگئی ہے۔ جلد ملاقات ہوگی!",
+  "appointments_upcoming": "آنے والی اپائنٹمنٹس",
+  "appointments_none": "ابھی کوئی اپائنٹمنٹ نہیں — ایک بُک کریں 🌱",
+  "appointments_fill_all": "براہ کرم تمام تفصیلات درج کریں!",
+  "appointments_error_load": "اپائنٹمنٹس لوڈ کرنے میں خرابی۔",
+  "appointments_error_book": "اپائنٹمنٹ بُک کرنے میں ناکامی۔",
+  "appointments_status": "حالت",
+
+  "community_title": "ہم خیال کمیونٹی 💬",
+  "community_description": "خیالات، حوصلہ افزائی اور مہربانی بانٹنے کی ایک محفوظ جگہ 🌱",
+  "community_name_placeholder": "آپ کا نام (اختیاری)",
+  "community_topic_placeholder": "موضوع (مثلاً حوصلہ افزائی، ذہنی سکون)",
+  "community_message_placeholder": "اپنے خیالات یا تجربات شیئر کریں...",
+  "community_post_button": "شیئر کریں 🌿",
+  "community_posting": "پوسٹ ہو رہی ہے...",
+  "community_no_posts": "ابھی کوئی پوسٹ نہیں — سب سے پہلے حوصلہ بڑھائیں 🌼",
+  "community_error_load": "پوسٹ لوڈ کرنے میں ناکامی۔",
+  "community_error_post": "پوسٹ شیئر کرنے میں ناکامی۔",
+  "community_empty_message": "براہ کرم پہلے کچھ لکھیں 🌱",
+  "community_topic": "موضوع",
+  "community_general": "عمومی",
+  "community_anonymous": "گمنام",
+  
+  "dreams_title": "گائیڈڈ ڈریم ٹریکر 🌙",
+  "dreams_description": "اپنے خواب، جذبات اور نیند کے معیار کو محفوظ کریں — آپ کی لاشعوری ڈائری ✨",
+
+  "dream_title_placeholder": "خواب کا عنوان",
+  "dream_description_placeholder": "اپنے خواب کی تفصیل لکھیں...",
+  "dream_emotion": "جذبات",
+  "dream_clarity": "وضاحت",
+  "dream_sleep_quality": "نیند کا معیار",
+
+  "dream_calm": "پرسکون 🌿",
+  "dream_anxious": "پریشان ⚡",
+  "dream_happy": "خوش 🌞",
+  "dream_scary": "خوفناک 👻",
+
+  "dream_vivid": "واضح ✨",
+  "dream_blurry": "دھندلا 🌫️",
+  "dream_average": "اوسط 🌗",
+
+  "dream_sleep_good": "بہترین 😴",
+  "dream_sleep_avg": "اوسط 🌙",
+  "dream_sleep_poor": "کمزور 😵",
+
+  "dream_saving": "محفوظ کیا جا رہا ہے...",
+  "dream_save_button": "خواب محفوظ کریں ✨",
+
+  "dream_fill_title_desc": "براہ کرم عنوان اور تفصیل درج کریں!",
+  "dream_save_failed": "خواب محفوظ نہیں ہو سکا",
+
+  "dream_journal_title": "خوابوں کی ڈائری",
+  "dream_no_entries": "ابھی تک کوئی خواب ریکارڈ نہیں ہوا۔ نیند کریں، خواب دیکھیں اور لکھنا شروع کریں 💭",
+
+  "dream_emotion_label": "جذبات",
+  "dream_clarity_label": "وضاحت",
+  "dream_sleep_label": "نیند",
+  "dream_none": "دستیاب نہیں",
+  
+  "emergency-title": "ایمرجنسی رابطے",
+  "emergency-subtitle": "بھروسہ مند رابطے محفوظ کریں جن سے آپ ہنگامی صورتحال میں فوراً رابطہ کر سکیں۔",
+
+  "resourcehub_title": "وسائل کا مرکز",
+  "resourcehub_subtitle": "فلاح و بہبود کے مضامین، آڈیو، نیند کی آوازیں اور رہنمائی شدہ مدد دریافت کریں۔",
+
+  "dreamtracker_title": "رہنمائی شدہ خواب ٹریکر",
+  "dreamtracker_subtitle": "اپنے خواب ریکارڈ کریں، سمجھیں اور جذباتی بصیرت کے ساتھ ان پر غور کریں۔",
+
+  "sleepsounds_title": "نیند کی آوازیں اور ASMR",
+  "sleepsounds_subtitle": "پرسکون نیند کے لیے مددگار آڈیو اور ASMR آوازیں۔",
+
+  
+
+  "dashboard_title": "ویلنیس ڈیش بورڈ",
+  "dashboard_subtitle": "اپنی جذباتی صحت، ترقی اور مجموعی فلاح کو یہاں ٹریک کریں۔",
+
+  "assessment_title": "جائزہ",
+  "assessment_subtitle": "رہنمائی شدہ جائزوں کے ذریعے اپنی جذباتی فلاح کا معائنہ کریں۔",
+
+  "community-title": "کمیونٹی اسپیس",
+  "community_subtitle": "خیالات شیئر کریں، ایک دوسرے کا ساتھ دیں اور مل کر آگے بڑھیں۔",
+
+  "crisis-title": "کرائسز ہیلپ لائن",
+  "crisis_subtitle": "اگر آپ یا کوئی جاننے والا فوری خطرے میں ہو تو ان ہیلپ لائنز سے رابطہ کریں۔",
+
+  
+  "welcome_to_mindspace": "مائنڈ اسپیس میں خوش آمدید 💙",
+  "daily_motivation": "یومیہ ترغیب",
+  "default_quote": "وہیں سے شروع کریں جہاں آپ ہیں۔ جو آپ کے پاس ہے اسے استعمال کریں۔ جو کر سکتے ہیں وہ کریں۔",
+  "default_quote_author": "آرتھر ایش",
+  "new-quote": "نیا اقتباس",
+
+  "chatbot-title": "مائنڈ میٹ AI چیٹ بوٹ",
+  "chatbot_subtitle": "سہارے، سکون اور رہنمائی کے لیے کسی بھی وقت اپنے AI ساتھی سے بات کریں۔",
+
+  "mood_tracker_title": "موڈ ٹریکر",
+  "mood_tracker_subtitle": "ہر روز اپنے جذبات کو ٹریک کریں اور اپنی ذہنی صحت پر غور کریں۔",
+
+  "journal-title": "ذاتی جرنل",
+  "journal_subtitle": "سوچ کر لکھیں، اظہار کریں اور ترقی کریں۔",
+
+  "appointment_title": "اپنا اپوائنٹمنٹ بُک کریں",
+  
+  "sidebar_home": "ہوم",
+  "sidebar_chatbot": "چیٹ بوٹ",
+  "sidebar_mood": "موڈ ٹریکر",
+  "sidebar_journal": "جرنل",
+  "sidebar_sleep": "نیند کی آوازیں",
+  "sidebar_dream": "خواب ٹریکر",
+  "sidebar_resources": "وسائل",
+  "sidebar_emergency": "ایمرجنسی",
+  "sidebar_appointments": "اپائنٹمنٹس",
+  "sidebar_crisis": "بحران",
+  "sidebar_community": "کمیونٹی",
+  "sidebar_assessment": "جائزہ",
+  "sidebar_dashboard": "ڈیش بورڈ",
+  "sidebar_admin": "ایڈمن",
+  "sidebar_logout": "لاگ آؤٹ",
+  
+  "dashboard-title": "ویلنیس ڈیش بورڈ 📊",
+  "dashboard-subtitle": "اپنی جذباتی صحت اور ذاتی بہبود کو ٹریک کریں۔",
+  
+  "mood_trends": "موڈ ٹرینڈز 😊",
+  "no_mood_data": "ابھی کوئی موڈ ڈیٹا نہیں ہے۔",
+  
+  "journaling_summary": "جرنلنگ خلاصہ ✏️",
+  "no_journal_entries": "ابھی کوئی اندراج موجود نہیں ہے۔",
+  
+  "appointmentss": "اپوائنٹمنٹس 📅",
+  "no_appointments": "کوئی آئندہ اپوائنٹمنٹ نہیں ہے۔",
+  
+  "dream_tracker": "ڈریم ٹریکر 🌙",
+  "no_dreams_logged": "ابھی کوئی خواب ریکارڈ نہیں ہوا ہے۔",
+  
+  "view_details": "تفصیلات دیکھیں",
+  
+  "quote_1": "جب تک یہ مکمل نہ ہو جائے، یہ ناممکن لگتا ہے۔",
+  "quote_2": "آپ کی ذہنی سکون سب سے زیادہ اہم ہے۔",
+  "quote_3": "سانس لیں۔ آپ سوچ سے زیادہ مضبوط ہیں۔",
+  "quote_4": "آپ اکیلے نہیں ہیں۔ آپ اہم ہیں۔",
+
+  "food_tips_heading": "غذائی مشورے 🍽️",
+  "scientifically_proven_foods": "موڈ بہتر کرنے کے سائنسی طور پر ثابت شدہ غذائیں 🧠",
+  "scientifically_proven_desc": "ان غذاؤں میں ایسے غذائی اجزاء ہیں جو دماغی صحت اور جذباتی توازن کے لیے فائدہ مند ہیں۔",
+
+
+
+  "assessment_remember": "یاد رکھیں 🔔",
+  "assessment_remember_desc": "آپ کے جوابات آپ کی جذباتی حالت کو سمجھنے میں مدد دیتے ہیں۔",
+  "assessment_expect": "کیا توقع کریں 💡",
+  "assessment_point_1": "یہ ٹیسٹ صرف 2–3 منٹ لیتا ہے۔",
+  "assessment_point_2": "آپ کے جوابات نجی اور محفوظ رہتے ہیں۔",
+  "assessment_point_3": "آپ کو فوراً نتائج اور رہنمائی ملے گی۔",
+
+  "foods_to_avoid": "جن کھانوں سے پرہیز کریں ⚠️",
+  "general_wellness": "عمومی صحت اور دماغی بہتری 🍎",
+  "depression_foods": "ڈپریشن میں مدد کرنے والی غذائیں 🌥️",
+  "anxiety_foods": "بے چینی کم کرنے والی غذائیں 😟",
+  "stress_foods": "تناؤ کم کرنے والی غذائیں 😌",
+
+  "more_foods": "مزید غذائی انتخاب 🍽️",
+
+  "foods": {
+    "blueberries_name": "بلیوبیریز 🫐",
+    "blueberries_desc": "دماغ اور موڈ کے لیے مفید اینٹی آکسیڈنٹس۔",
+
+    "dark_chocolate_name": "ڈارک چاکلیٹ 🍫",
+    "dark_chocolate_desc": "سیروٹونِن بڑھا کر موڈ بہتر کرتی ہے۔",
+
+    "salmon_name": "سالمن مچھلی 🐟",
+    "salmon_desc": "اومیگا-3 سے بھرپور؛ ڈپریشن کم کرتی ہے۔",
+
+    "bananas_name": "کیلے 🍌",
+    "bananas_desc": "وٹامن B6 موڈ بہتر کرنے میں مدد دیتا ہے.",
+
+    "nuts_name": "میوہ جات 🥜",
+    "nuts_desc": "میگنیشیم سے بھرپور؛ تناؤ کم کرتا ہے۔",
+
+    "spinach_name": "پالک 🥬",
+    "spinach_desc": "فولیٹ اور میگنیشیم ذہنی دباؤ کم کرتے ہیں۔",
+
+    "yogurt_name": "دہی 🥛",
+    "yogurt_desc": "آنتوں کی صحت بہتر کر کے موڈ بہتر بناتا ہے۔",
+
+    "turmeric_name": "ہلدی 🌿",
+    "turmeric_desc": "سوزش کم کرتی ہے اور مزاج بہتر کرتی ہے۔",
+
+    "idli_name": "ادلی 🍛",
+    "idli_desc": "ہلکی اور آسانی سے ہضم ہونے والی خمیر شدہ غذا۔",
+
+    "poha_name": "پوہا 🍚",
+    "poha_desc": "توانائی کو مستحکم رکھنے میں مدد دیتا ہے۔",
+
+    "oats_name": "اوٹس 🥣",
+    "oats_desc": "فائبر سے بھرپور؛ موڈ کو متوازن رکھتا ہے۔",
+
+    "almonds_name": "بادام 🌰",
+    "almonds_desc": "یادداشت بہتر اور تناؤ کم کرتا ہے۔",
+
+    "walnuts_name": "اخروٹ 🥜",
+    "walnuts_desc": "اومیگا-3 دماغ کے لیے مفید۔",
+
+    "green_tea_name": "سبز چائے 🍵",
+    "green_tea_desc": "ایل-تھیانین ذہن کو سکون دیتا ہے۔",
+
+    "eggs_name": "انڈے 🍳",
+    "eggs_desc": "پروٹین سے بھرپور؛ موڈ بہتر کرتے ہیں۔",
+
+    "apple_name": "سیب 🍎",
+    "apple_desc": "اینٹی آکسیڈنٹس اور فائبر کا بہترین ذریعہ۔",
+
+    "orange_name": "سنگترہ 🍊",
+    "orange_desc": "وٹامن C تناؤ کم کرتا ہے۔",
+
+    "grapes_name": "انگور 🍇",
+    "grapes_desc": "دماغ کی حفاظت کرنے والے اینٹی آکسیڈنٹس۔",
+
+    "carrot_name": "گاجر 🥕",
+    "carrot_desc": "ہاضمے اور قوتِ مدافعت کے لیے اچھا۔",
+
+    "cucumber_name": "کھیرا 🥒",
+    "cucumber_desc": "جسم کو ٹھنڈک اور پانی فراہم کرتا ہے۔",
+
+    "milk_name": "دودھ 🥛",
+    "milk_desc": "نیند اور سکون کے لیے مفید۔",
+
+    "rice_name": "چاول 🍚",
+    "rice_desc": "توانائی دینے والا اور ہلکا ہاضمہ۔",
+
+    "chapati_name": "چپاتی 🍞",
+    "chapati_desc": "توانائی کو مستحکم رکھنے والا کاربوہائیڈریٹ۔",
+
+    "chicken_name": "چکن 🍗",
+    "chicken_desc": "ٹرپٹوفان کی وجہ سے موڈ بہتر کرتا ہے۔",
+
+    "beans_name": "بینز 🍲",
+    "beans_desc": "پروٹین سے بھرپور؛ موڈ کو متوازن رکھتی ہیں۔",
+
+    "mushroom_name": "مشروم 🍄",
+    "mushroom_desc": "وٹامن D اور دماغی صحت کے لیے مفید۔"
+  },
+  
+ 
+  "total_entries": "کل اندراجات:",
+ 
+  "total": "کل:",
+
+  "dreams_logged": "درج کردہ خواب:",
+  
+
+  "home_welcome": "MindSpace میں خوش آمدید 💙",
+  
+  "quote_5": "ہر دن کا آغاز ایک مثبت سوچ سے کریں۔",
+
+  
+  "assessment_note": "یہ طبی تشخیص نہیں ہے۔ ہنگامی صورت میں فوری مدد حاصل کریں۔",
+
+  "resource_foods_heading": "غذا اور صحت",
+  "resource_sleep_heading": "نیند اور سکون",
+  "resource_mood_heading": "مزاج کے ٹولز",
+  "resource_journal_heading": "جرنلنگ",
+
+ 
+    "blueberries_name": "بلیو بیریز 🫐",
+    "blueberries_desc": "اینٹی آکسیڈینٹس سے بھرپور، دماغ اور مزاج کے لیے مفید۔",
+
+    "strawberries_name": "اسٹرابیری 🍓",
+    "strawberries_desc": "وٹامن C اور اینٹی آکسیڈینٹس سے بھرپور۔",
+
+    "dark_chocolate_name": "ڈارک چاکلیٹ 🍫",
+    "dark_chocolate_desc": "سیروٹونن بڑھا کر مزاج بہتر کرتی ہے۔",
+
+    "salmon_name": "سالمن 🐟",
+    "salmon_desc": "اومیگا 3 سے بھرپور، ڈپریشن اور اضطراب میں مددگار۔",
+
+    "fatty_fish_name": "چربی والی مچھلی 🐟",
+    "fatty_fish_desc": "دماغی صحت کے لیے بہترین۔",
+
+    "tuna_name": "ٹیونا 🐟",
+    "tuna_desc": "اومیگا 3 اور پروٹین کا اچھا ذریعہ۔",
+
+    "bananas_name": "کیلے 🍌",
+    "bananas_desc": "وٹامن B6 سیروٹونن میں اضافہ کرتا ہے۔",
+
+    "avocado_name": "ایووکاڈو 🥑",
+    "avocado_desc": "صحت مند چربی دماغ کے لیے مفید۔",
+
+    "nuts_name": "خشک میوہ جات 🥜",
+    "nuts_desc": "میگنیشیم اور وٹامن E تناؤ کم کرتے ہیں۔",
+
+    "almonds_name": "بادام 🌰",
+    "almonds_desc": "دماغی بہتری اور سکون کے لیے بہترین۔",
+
+    "walnuts_name": "اخروٹ 🥜",
+    "walnuts_desc": "اومیگا 3 دماغی کارکردگی بڑھاتا ہے۔",
+
+    "chia_seeds_name": "چیا بیج 🌱",
+    "chia_seeds_desc": "فائبر اور اومیگا 3 کا ذریعہ۔",
+
+    "flaxseeds_name": "السی کے بیج 🌾",
+    "flaxseeds_desc": "پودوں سے حاصل کردہ اومیگا 3۔",
+
+    "pumpkin_seeds_name": "کدو کے بیج 🎃",
+    "pumpkin_seeds_desc": "جست اور میگنیشیم سے بھرپور۔",
+
+    "spinach_name": "پالک 🥬",
+    "spinach_desc": "میگنیشیم تناؤ کم کرتا ہے۔",
+
+    "dark_leafy_greens_name": "سبز پتوں والی سبزیاں 🥬",
+    "dark_leafy_greens_desc": "انتہائی غذائیت سے بھرپور۔",
+
+    "broccoli_name": "بروکولی 🥦",
+    "broccoli_desc": "وٹامن اور فائبر سے بھرپور۔",
+
+    "bell_pepper_name": "شملہ مرچ 🫑",
+    "bell_pepper_desc": "وٹامن C کا بہترین ذریعہ۔",
+
+    "tomato_name": "ٹماٹر 🍅",
+    "tomato_desc": "اینٹی آکسیڈینٹس سے بھرپور۔",
+
+    "lentils_name": "دالیں 🍲",
+    "lentils_desc": "فائبر اور فولک ایسڈ مزاج کو متوازن رکھتے ہیں۔",
+
+    "chickpeas_name": "چنے 🧆",
+    "chickpeas_desc": "پروٹین اور فائبر کا زبردست ذریعہ۔",
+
+    "beans_name": "لوبیا 🍲",
+    "beans_desc": "پروٹین اور غذائیت سے بھرپور۔",
+
+    "oats_name": "اوٹس 🥣",
+    "oats_desc": "توانائی کو دیر تک برقرار رکھتے ہیں۔",
+
+    "whole_grains_name": "مکمل اناج 🌾",
+    "whole_grains_desc": "آہستہ ہضم ہونے والی توانائی۔",
+
+    "brown_rice_name": "براون رائس 🍚",
+    "brown_rice_desc": "مستقل توانائی فراہم کرتا ہے۔",
+
+    "rice_name": "چاول 🍚",
+    "rice_desc": "ہلکا اور آسان ہاضم۔",
+
+    "chapati_name": "چپاتی 🍞",
+    "chapati_desc": "توانائی کا مستحکم ذریعہ۔",
+
+    "oatmeal_name": "اوٹ میل 🥣",
+    "oatmeal_desc": "آرام دہ اور غذائیت بخش۔",
+
+    "eggs_name": "انڈے 🍳",
+    "eggs_desc": "پروٹین کا بہترین ذریعہ۔",
+
+    "chicken_name": "چکن 🍗",
+    "chicken_desc": "ٹرپٹوفان مزاج بہتر کرتا ہے۔",
+
+    "turkey_name": "ٹرکی 🍗",
+    "turkey_desc": "ٹرپٹوفان سے بھرپور۔",
+
+    "beef_name": "بیف 🥩",
+    "beef_desc": "B وٹامنز اور آئرن کا ذریعہ۔",
+
+    "tofu_name": "ٹوٖفو 🧾",
+    "tofu_desc": "پودوں سے حاصل کردہ پروٹین۔",
+
+    "soy_name": "سویا پروڈکٹس 🫘",
+    "soy_desc": "پروٹین اور ہارمون توازن کے لیے مفید۔",
+
+    "yogurt_name": "دہی 🥛",
+    "yogurt_desc": "آنتوں کی صحت بہتر کرتا ہے۔",
+
+    "kefir_name": "کیفیر 🥛",
+    "kefir_desc": "پروبایوٹکس سے بھرپور۔",
+
+    "kimchi_name": "کمچی 🥬",
+    "kimchi_desc": "خمیر شدہ غذا؛ مزاج کے لیے بہترین۔",
+
+    "mushroom_name": "کھمبی 🍄",
+    "mushroom_desc": "وٹامن D کا اچھا ذریعہ۔",
+
+    "sweet_potato_name": "شکر قندی 🍠",
+    "sweet_potato_desc": "سست رفتاری سے ہضم ہونے والی کاربز۔",
+
+    "potato_name": "آلو 🥔",
+    "potato_desc": "آرام دہ غذا۔",
+
+    "apple_name": "سیب 🍎",
+    "apple_desc": "فائبر اور اینٹی آکسیڈینٹس۔",
+
+    "orange_name": "سنترا 🍊",
+    "orange_desc": "وٹامن C تناؤ کم کرتا ہے۔",
+
+    "grapes_name": "انگور 🍇",
+    "grapes_desc": "دماغ کے لیے حفاظتی غذائیت۔",
+
+    "papaya_name": "پپیتا 🥭",
+    "papaya_desc": "ہاضمے کے لیے اچھا۔",
+
+    "mango_name": "آم 🥭",
+    "mango_desc": "وٹامنز اور توانائی سے بھرپور۔",
+
+    "pineapple_name": "انناس 🍍",
+    "pineapple_desc": "وٹامن C اور انزائمز۔",
+
+    "watermelon_name": "تربوز 🍉",
+    "watermelon_desc": "ہائیڈریشن فراہم کرتا ہے۔",
+
+    "cucumber_name": "کھیرہ 🥒",
+    "cucumber_desc": "ٹھنڈک اور تازگی عطا کرتا ہے۔",
+
+    "carrot_name": "گاجر 🥕",
+    "carrot_desc": "ہاضمے کے لیے مفید۔",
+
+    "garlic_name": "لہسن 🧄",
+    "garlic_desc": "مدافعتی نظام بہتر کرتا ہے۔",
+
+    "onion_name": "پیاز 🧅",
+    "onion_desc": "مجموعی صحت کے لیے مفید۔",
+
+    "green_tea_name": "گرین ٹی 🍵",
+    "green_tea_desc": " ذہنی سکون اور توجہ بڑھاتی ہے۔",
+
+    "chamomile_tea_name": "کیمومائل ٹی ☕",
+    "chamomile_tea_desc": "بہتر نیند میں مدد دیتی ہے۔",
+
+    "milk_name": "دودھ 🥛",
+    "milk_desc": "سکون اور نیند کے لیے بہترین۔",
+
+    "honey_name": "شہد 🍯",
+    "honey_desc": "قدرتی مٹھاس اور اینٹی آکسیڈینٹس۔",
+
+    "coconut_water_name": "ناریل پانی 🥥",
+    "coconut_water_desc": "شدید ہائیڈریشن فراہم کرتا ہے۔",
+
+    "herbs_spices_name": "جڑی بوٹیاں اور مصالحے 🌿",
+    "herbs_spices_desc": "ہلدی اور ادرک سوزش کم کرتے ہیں۔",
+
+    "comfort_foods_name": "کمفرٹ فوڈز (اعتدال میں) 🍲",
+    "comfort_foods_desc": "گرم اور مانوس غذا سکون دیتی ہے۔"
+  ,
+
+  "foods_to_avoid_list": {
+    "excess_sugar": "زیادہ چینی 🍭 — مزاج خراب کرتی ہے۔",
+    "processed_foods": "پراسیسڈ فوڈ 🍟 — صحت اور مزاج کے لیے نقصان دہ۔",
+    "excess_caffeine": "زیادہ کیفین ☕ — اضطراب بڑھاتی ہے۔",
+    "excess_alcohol": "زیادہ الکوحل 🍺 — نیند اور مزاج کو بگاڑتی ہے۔",
+    "trans_fats": "ٹرانس چربی 🚫 — دماغی صحت کے لیے خطرناک۔"
+  },
+
+  "misc": {
+    "remember_note": "ایمانداری سے جواب دیں — کوئی صحیح یا غلط نہیں۔",
+    "privacy_note": "آپ کا ڈیٹا مکمل طور پر محفوظ ہے۔",
+    "learn_more": "مزید جانیں",
+    "get_help": "مدد حاصل کریں",
+    "add_entry": "اندراج شامل کریں",
+    "save": "محفوظ کریں",
+    "cancel": "منسوخ کریں",
+    "delete": "حذف کریں",
+    "edit": "ترمیم کریں",
+    "search": "تلاش کریں"
+  }
+
+
+
+
+  
+  
+}
+

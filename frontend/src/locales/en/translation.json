@@ -1,0 +1,701 @@
+{
+  "title": "MindSpace",
+  "welcome": "Welcome to MindSpace 💙",
+  
+  "journal": "Personal Journal",
+  "chatbot": "MindMate Chatbot",
+  "appointments": "Book Appointment",
+  "crisis": "Crisis Helplines",
+  "journal_title": "My Journal",
+  "journal_description": "Reflect on your day, express your emotions, or write freely. 🌿",
+  "journal_placeholder": "Write your thoughts here...",
+  "journal_save": "Save Entry",
+  "journal_saving": "Saving...",
+  "journal_previous": "Previous Entries",
+  "journal_no_entries": "No entries yet — your story starts today. 💫",
+  "journal_empty_error": "Please write something first!",
+  "journal_error_save": "Failed to save entry.",
+  "journal_error_load": "Error loading journal entries.",
+  "assessment": "Self Assessment",
+  
+  "gad7_title": "GAD-7 Anxiety Test",
+  "gad7_q1": "Feeling nervous, anxious, or on edge",
+  "gad7_q2": "Not being able to stop or control worrying",
+  "gad7_q3": "Worrying too much about different things",
+  "gad7_q4": "Trouble relaxing",
+  "gad7_q5": "Being so restless that it is hard to sit still",
+  "gad7_q6": "Becoming easily annoyed or irritable",
+  "gad7_q7": "Feeling afraid as if something awful might happen",
+
+  "phq9_title": "PHQ-9 Depression Test",
+  "phq9_q1": "Little interest or pleasure in doing things",
+  "phq9_q2": "Feeling down, depressed, or hopeless",
+  "phq9_q3": "Trouble sleeping or sleeping too much",
+  "phq9_q4": "Feeling tired or having little energy",
+  "phq9_q5": "Poor appetite or overeating",
+  "phq9_q6": "Feeling bad about yourself or that you are a failure",
+  "phq9_q7": "Trouble concentrating on things",
+  "phq9_q8": "Moving or speaking slowly or being restless",
+  "phq9_q9": "Thoughts that you would be better off dead or of hurting yourself",
+
+  "pss10_title": "PSS-10 Stress Scale",
+  "pss10_q1": "How often have you felt upset because of unexpected events?",
+  "pss10_q2": "How often have you felt you could not control important things?",
+  "pss10_q3": "How often have you felt nervous and stressed?",
+  "pss10_q4": "How often have you felt confident in handling personal problems?",
+  "pss10_q5": "How often have you felt that things were going your way?",
+  "pss10_q6": "How often have you felt you could not cope with all you had to do?",
+  "pss10_q7": "How often have you been able to control irritations in your life?",
+  "pss10_q8": "How often have you felt on top of things?",
+  "pss10_q9": "How often have you been angered by things outside your control?",
+  "pss10_q10": "How often have you felt difficulties piling up beyond your control?",
+
+  "who5_title": "WHO-5 Well-Being Index",
+  "who5_q1": "I have felt cheerful and in good spirits",
+  "who5_q2": "I have felt calm and relaxed",
+  "who5_q3": "I have felt active and vigorous",
+  "who5_q4": "I woke up feeling fresh and rested",
+  "who5_q5": "My daily life has been filled with things that interest me",
+
+  "anxiety_test": "Anxiety (GAD-7)",
+  "depression_test": "Depression (PHQ-9)",
+  "stress_test": "Stress (PSS-10)",
+  "wellbeing_test": "Well-Being (WHO-5)",
+
+  "select_option": "Select an option",
+  "calculate_score": "Calculate Score",
+  "total_score": "Total Score",
+  "interpretation": "Interpretation",
+  "disclaimer": "🌿 Remember: This is not a diagnosis — it’s a reflection tool to help you care for your mental wellbeing.",
+
+  "not_at_all": "Not at all",
+  "several_days": "Several days",
+  "more_than_half": "More than half the days",
+  "nearly_every_day": "Nearly every day",
+
+  "never": "Never",
+  "almost_never": "Almost never",
+  "sometimes": "Sometimes",
+  "fairly_often": "Fairly often",
+  "very_often": "Very often",
+
+  "at_no_time": "At no time",
+  "some_of_time": "Some of the time",
+  "less_than_half": "Less than half the time",
+  "more_than_the_half": "More than half the time",
+  "most_of_time": "Most of the time",
+  "all_of_time": "All of the time",
+
+  "normal": "Normal",
+  "severe_anxiety": "Severe anxiety",
+  "moderate_anxiety": "Moderate anxiety",
+  "mild_anxiety": "Mild anxiety",
+  "severe_depression": "Severe depression",
+  "moderately_severe": "Moderately severe depression",
+  "moderate_depression": "Moderate depression",
+  "mild_depression": "Mild depression",
+  "high_stress": "High perceived stress",
+  "moderate_stress": "Moderate stress",
+  "low_stress": "Low stress",
+  "possible_depression": "Possible depression (low well-being)",
+  "good_wellbeing": "Good well-being",
+
+
+  "quote_title": "Daily Motivation",
+  "new_quote": "New Quote 🌤️",
+  "quotes_list": [
+    "You don’t have to control your thoughts. You just have to stop letting them control you. – Dan Millman",
+    "Start where you are. Use what you have. Do what you can. – Arthur Ashe",
+    "Every day may not be good, but there’s something good in every day. – Alice Morse Earle",
+    "You, yourself, as much as anybody in the entire universe, deserve your love and affection. – Buddha",
+    "It’s okay to not be okay, as long as you are not giving up. – Karen Salmansohn",
+    "Be patient with yourself. Nothing in nature blooms all year. 🌸",
+    "Peace begins the moment you choose not to allow another person or event to control your emotions. – Pema Chödrön",
+    "You are not your anxiety. You are the calm beneath it. 🌿",
+    "Happiness is not the absence of problems, but the ability to deal with them. – Steve Maraboli",
+    "Keep taking time for yourself until you’re you again. 💫"
+  ],
+  "assessment_dashboard": "Assessment Dashboard",
+  "assessment_dashboard_title": "Assessment Progress Dashboard",
+  "no_assessment_data": "No assessment data yet 🌱 Take a few self-assessments to track your growth journey.",
+  "wellbeing_insights": "Wellbeing Insights",
+  "tracking_message": "Consistent tracking helps you identify emotional patterns and progress over time.",
+  "progress_for": "{{type}} Progress",
+  "average_score": "Avg Score",
+  "resources": "Resource Hub",
+  "resources_description": "Explore a variety of helpful resources — mindfulness articles, guided audios, sleep sounds, and more — all crafted to nurture your mental wellbeing.",
+  "resources_loading": "Loading resources...",
+  "resources_empty": "No resources available yet.",
+  "resources_open": "Open",
+  "sleep": "Sleep Sounds",
+  "sleep_sounds_title": "Sleep & ASMR Sounds",
+  "sleep_sounds_loading": "Loading calming sounds...",
+  "sleep_sounds_empty": "No sounds available yet.",
+  "sleep_sounds_play": "Play",
+  "sleep_sounds_stop": "Stop",
+  "dreams": "Dream Tracker",
+  "community": "Community Space",
+  "dashboard": "Institution Dashboard",
+  "emergency_contacts": "Emergency Contacts",
+  "login": "Login",
+  "create_account": "🌱 Create Account",
+  "welcome_back": "🔐 Welcome Back",
+  "signup_message": "Join MindSpace and start your self-care journey 💖",
+  "login_message": "Log in to reconnect with your peace ☁️",
+  "email": "Email",
+  "password": "Password",
+  "processing": "Processing...",
+  "no_account": "Don’t have an account? Create one 🌿",
+  "have_account": "Already have an account? Login 🔑",
+  "enter_email_password": "Please enter both email and password 🌼",
+  "welcome_user": "Welcome back,",
+  "continue_journey": "Let’s continue your journey toward calm 🌤️",
+  "logout": "Logout",
+  "signup": "Sign Up",
+  "change_lang": "Change Language",
+  
+  "mood_tracker": "Mood Tracker",
+  "mood_description": "Track your daily emotions and reflect on what shapes your mood. 💭",
+  "mood_question": "How are you feeling today?",
+  "mood_level": "Mood Level",
+  "mood_placeholder": "Write a short reflection or note about your day...",
+  "mood_save": "Save Mood 💖",
+  "mood_saving": "Saving...",
+  "mood_history": "Mood History",
+  "mood_no_entries": "No entries yet — start tracking your moods today 🌈",
+  "mood_error": "Couldn't save mood. Try again!",
+  "loading": "Loading...",
+  "nav_home": "Home",
+  "nav_chatbot": "Chatbot",
+  "nav_mood": "Mood Tracker",
+  "nav_journal": "Journal",
+  "nav_appointments": "Appointments",
+  "nav_resources": "Resources",
+  "nav_assessment": "Assessment",
+  "nav_sleep": "Sleep",
+  "nav_dreams": "Dreams",
+  "nav_community": "Community",
+  "nav_dashboard": "Dashboard",
+  "play": "Play",
+  "stop": "Stop",
+  
+  "institution_loading": "Loading institution insights...",
+  "institution_title": "Institution Dashboard",
+  "institution_subtitle": "Track overall emotional wellbeing, assessments, and engagement trends 🌈",
+  "institution_users": "Active Users",
+  "institution_appointments": "Total Appointments",
+  "institution_data_freshness": "Data Freshness",
+  "institution_mood": "Mood Distribution",
+  "institution_no_mood": "No mood data yet.",
+  "institution_assessment": "Assessment Averages",
+  "institution_no_assessment": "No assessment data yet.",
+  "institution_footer": "Data is anonymized and auto-updated for institutional insights.",
+  "emergency_title": "Emergency Contacts",
+  "emergency_subtitle": "Keep your trusted contacts close for moments when you might need support 💙",
+  "emergency_name": "Name",
+  "emergency_phone": "Phone",
+  "emergency_relation": "Relation",
+  "emergency_add": "Add",
+  "emergency_saving": "Saving...",
+  "emergency_no_contacts": "No contacts yet. Add one above to stay prepared 💫",
+  "emergency_missing_fields": "Please enter name and phone number!",
+  "emergency_error_add": "Failed to add contact.",
+  "emergency_error_delete": "Failed to delete contact.",
+  "emergency_error_load": "Error loading contacts.",
+  "emergency_confirm_delete": "Remove this contact?",
+  "crisis_title": "Crisis Helplines",
+  "crisis_description": "If you or someone you know is in distress, please reach out now. 💖 You’re not alone — help is available, and you matter.",
+  "crisis_no_contacts": "No helplines available right now.",
+  "crisis_call_now": "Call Now 📞",
+  "crisis_footer": "Remember — reaching out is a sign of strength 💪",
+  "crisis_error_load": "Failed to load crisis helplines.",
+  "chatbot_title": "MindMate AI",
+  "chatbot_greeting": "Hello 👋 I’m MindMate — your calm wellbeing companion. You can talk or type to me anytime 💙",
+  "chatbot_thinking": "Hmm, let me think a moment 💭",
+  "chatbot_error": "⚠️ Sorry, I couldn’t connect right now. Let’s try again soon 💙",
+  "chatbot_clear": "Clear",
+  "chatbot_confirm_clear": "Clear all chat history?",
+  "chatbot_cleared": "Chat cleared! Let’s begin a fresh conversation 🌱",
+  "chatbot_no_speech": "Speech recognition not supported 😢",
+  "chatbot_typing": "MindMate is typing...",
+  "chatbot_placeholder": "Type or speak your message...",
+  "chatbot_send": "Send",
+  "appointments_title": "Book Appointment",
+  "appointments_name": "Your Name",
+  "appointments_email": "Your Email",
+  "appointments_select_slot": "Select a Time Slot",
+  "appointments_confirm": "Confirm Appointment",
+  "appointments_success": "Appointment Confirmed!",
+  "appointments_success_message": "Your appointment has been booked successfully. We'll see you soon!",
+  "appointments_upcoming": "Upcoming Appointments",
+  "appointments_none": "No appointments yet — book your first session 🌱",
+  "appointments_fill_all": "Please fill all fields before booking!",
+  "appointments_error_load": "Error loading appointments.",
+  "appointments_error_book": "Failed to book appointment.",
+  "appointments_status": "Status",
+  "community_title": "Peer-to-Peer Community 💬",
+  "community_description": "A safe, supportive place to share thoughts, kindness, and growth 🌱",
+  "community_name_placeholder": "Your Name (optional)",
+  "community_topic_placeholder": "Topic (e.g., Motivation, Stress Relief)",
+  "community_message_placeholder": "Share your thoughts, struggles, or encouragement...",
+  "community_post_button": "Post 🌿",
+  "community_posting": "Posting...",
+  "community_no_posts": "No posts yet. Be the first to inspire 🌼",
+  "community_error_load": "Failed to load community posts.",
+  "community_error_post": "Failed to share your post.",
+  "community_empty_message": "Please write something first 🌱",
+  "community_topic": "Topic",
+  "community_general": "General",
+  "community_anonymous": "Anonymous",
+  
+  "dreams_title": "Guided Dreams Tracker 🌙",
+  "dreams_description": "Record your dreams, emotions, and sleep quality — your subconscious storybook ✨",
+
+  "dream_title_placeholder": "Dream Title",
+  "dream_description_placeholder": "Describe your dream...",
+  "dream_emotion": "Emotion",
+  "dream_clarity": "Clarity",
+  "dream_sleep_quality": "Sleep Quality",
+
+  "dream_calm": "Calm 🌿",
+  "dream_anxious": "Anxious ⚡",
+  "dream_happy": "Happy 🌞",
+  "dream_scary": "Scary 👻",
+
+  "dream_vivid": "Vivid ✨",
+  "dream_blurry": "Blurry 🌫️",
+  "dream_average": "Average 🌗",
+
+  "dream_sleep_good": "Good 😴",
+  "dream_sleep_avg": "Average 🌙",
+  "dream_sleep_poor": "Poor 😵",
+
+  "dream_saving": "Saving...",
+  "dream_save_button": "Save Dream ✨",
+
+  "dream_fill_title_desc": "Please fill in both title and description!",
+  "dream_save_failed": "Failed to save dream",
+
+  "dream_journal_title": "Dream Journal",
+  "dream_no_entries": "No dreams recorded yet. Sleep, dream, and start journaling 💭",
+
+  "dream_emotion_label": "Emotion",
+  "dream_clarity_label": "Clarity",
+  "dream_sleep_label": "Sleep Quality",
+  "dream_none": "N/A",
+
+  "emergency-title": "Emergency Contacts",
+  "emergency-subtitle": "Save trusted contacts you can reach instantly during critical moments.",
+
+  "resourcehub_title": "Resource Hub",
+  "resourcehub_subtitle": "Explore wellbeing articles, audios, sleep sounds, and guided support.",
+
+  "dreamtracker_title": "Guided Dream Tracker",
+  "dreamtracker_subtitle": "Record, understand, and reflect on your dreams with clarity and emotional insights.",
+
+  "sleepsounds_title": "Sleep Sounds & ASMR",
+  "sleepsounds_subtitle": "Relaxing sleep audios and ASMR sounds to help you unwind and rest peacefully.",
+
+
+
+  "dashboard_title": "Wellness Dashboard",
+  "dashboard_subtitle": "Track your emotional health, progress and overall wellbeing here.",
+
+  "assessment_title": "Assessment",
+  "assessment_subtitle": "Check your emotional wellbeing with guided assessments.",
+
+  "community-title": "Community Space",
+  "community_subtitle": "Share thoughts, support each other, and grow together.",
+
+  "crisis-title": "Crisis Helplines",
+  "crisis_subtitle": "If you or someone you know is in immediate danger, reach out to these helplines.",
+
+  "welcome_to_mindspace": "Welcome to MindSpace 💙",
+  "daily_motivation": "Daily Motivation",
+  "default_quote": "Start where you are. Use what you have. Do what you can.",
+  "default_quote_author": "Arthur Ashe",
+  "new-quote": "New Quote",
+
+  "chatbot-title": "MindMate AI Chatbot",
+  "chatbot_subtitle": "Talk to your AI companion anytime for support, comfort, and guidance.",
+
+  "mood_tracker_title": "Mood Tracker",
+  "mood_tracker_subtitle": "Track how you feel each day and reflect on your emotional wellbeing.",
+
+  "journal-title": "Personal Journal",
+  "journal_subtitle": "Reflect, express, and grow through mindful journaling.",
+
+  "appointment_title": "Book Your Appointment",
+  
+  "sidebar_home": "Home",
+  "sidebar_chatbot": "Chatbot",
+  "sidebar_mood": "Mood Tracker",
+  "sidebar_journal": "Journal",
+  "sidebar_sleep": "Sleep Sounds",
+  "sidebar_dream": "Dream Tracker",
+  "sidebar_resources": "Resources",
+  "sidebar_emergency": "Emergency",
+  "sidebar_appointments": "Appointments",
+  "sidebar_crisis": "Crisis",
+  "sidebar_community": "Community",
+  "sidebar_assessment": "Assessment",
+  "sidebar_dashboard": "Dashboard",
+  "sidebar_admin": "Admin",
+  "sidebar_logout": "Logout",
+  "dashboard-title": "Wellness Dashboard 📊",
+  "dashboard-subtitle": "Track your emotional health and personal wellbeing.",
+  
+  "mood_trends": "Mood Trends 😊",
+  "no_mood_data": "No mood data yet.",
+  
+  "journaling_summary": "Journaling Summary ✏️",
+  "no_journal_entries": "No entries yet.",
+  
+  "appointmentss": "Appointments 📅",
+  "no_appointments": "No upcoming appointments.",
+  
+  "dream_tracker": "Dream Tracker 🌙",
+  "no_dreams_logged": "No dreams logged yet.",
+  
+  "view_details": "View Details",
+  
+  "daily-motivation": "Daily Motivation ✨",
+  
+
+  "quote_1": "It always seems impossible until it's done.",
+  "quote_2": "Your peace is more important than anything.",
+  "quote_3": "Breathe. You are stronger than you think.",
+  "quote_4": "You are not alone. You matter.",
+
+  "food_tips_heading": "Food Tips 🍽️",
+  "scientifically_proven_foods": "Scientifically Proven Foods to Improve Mood 🧠",
+  "scientifically_proven_desc": "These foods contain nutrients that support brain health and emotional balance.",
+  
+  "assessment_remember": "Remember 🔔",
+  "assessment_remember_desc": "Your responses help measure your wellbeing and emotional state.",
+  "assessment_expect": "What to Expect 💡",
+  "assessment_point_1": "This assessment takes only 2–3 minutes.",
+  "assessment_point_2": "Your answers are private and stored securely.",
+  "assessment_point_3": "You will get instant results and insights.",
+
+  "foods_to_avoid": "Foods to Avoid ⚠️",
+  "general_wellness": "General Wellness & Brain Health 🍎",
+  "depression_foods": "Foods That Help With Depression 🌥️",
+  "anxiety_foods": "Foods That Help With Anxiety 😟",
+  "stress_foods": "Foods That Reduce Stress 😌",
+
+  "more_foods": "More Food Options 🍽️",
+
+  "foods": {
+    "blueberries_name": "Blueberries 🫐",
+    "blueberries_desc": "Rich in antioxidants that support brain health and mood.",
+    
+    "dark_chocolate_name": "Dark Chocolate 🍫",
+    "dark_chocolate_desc": "Boosts serotonin and improves mood naturally.",
+
+    "salmon_name": "Salmon 🐟",
+    "salmon_desc": "High in omega-3 fats that help reduce anxiety and depression.",
+
+    "bananas_name": "Bananas 🍌",
+    "bananas_desc": "Contain vitamin B6 which supports serotonin production.",
+
+    "nuts_name": "Nuts 🥜",
+    "nuts_desc": "Rich in healthy fats and magnesium for stress relief.",
+
+    "spinach_name": "Spinach 🥬",
+    "spinach_desc": "Contains folate and magnesium that reduce stress.",
+    
+    "yogurt_name": "Yogurt 🥛",
+    "yogurt_desc": "Improves gut health which is closely linked to mood.",
+    
+    "turmeric_name": "Turmeric 🌿",
+    "turmeric_desc": "Contains curcumin that reduces inflammation and boosts mood.",
+
+    "idli_name": "Idli 🍛",
+    "idli_desc": "Light, fermented food that improves digestion and energy.",
+
+    "poha_name": "Poha 🍚",
+    "poha_desc": "Easy to digest and helps maintain steady energy levels.",
+
+    "oats_name": "Oats 🥣",
+    "oats_desc": "Great source of fiber and helps stabilize mood.",
+
+    "almonds_name": "Almonds 🌰",
+    "almonds_desc": "Boost memory and help reduce stress.",
+
+    "walnuts_name": "Walnuts 🥜",
+    "walnuts_desc": "High in omega-3; great for brain health.",
+
+    "green_tea_name": "Green Tea 🍵",
+    "green_tea_desc": "Contains L-theanine which relaxes the mind.",
+
+    "eggs_name": "Eggs 🍳",
+    "eggs_desc": "High in protein and helps regulate mood.",
+
+    "apple_name": "Apple 🍎",
+    "apple_desc": "Packed with fiber and antioxidants for overall wellness.",
+
+    "orange_name": "Orange 🍊",
+    "orange_desc": "High in vitamin C; reduces stress hormones.",
+
+    "grapes_name": "Grapes 🍇",
+    "grapes_desc": "Rich in antioxidants that protect the brain.",
+
+    "carrot_name": "Carrot 🥕",
+    "carrot_desc": "Good for immunity and digestion.",
+
+    "cucumber_name": "Cucumber 🥒",
+    "cucumber_desc": "Hydrating food that keeps the body refreshed.",
+
+    "milk_name": "Milk 🥛",
+    "milk_desc": "Helps improve sleep and relaxation.",
+
+    "rice_name": "Rice 🍚",
+    "rice_desc": "Provides energy; calming and easy to digest.",
+
+    "chapati_name": "Chapati 🍞",
+    "chapati_desc": "Stable carbohydrate source that maintains energy.",
+
+    "chicken_name": "Chicken 🍗",
+    "chicken_desc": "High in protein; improves mood through tryptophan.",
+
+    "beans_name": "Beans 🍲",
+    "beans_desc": "Rich in protein and nutrients that help balance mood.",
+
+    "mushroom_name": "Mushroom 🍄",
+    "mushroom_desc": "Supports brain function and vitamin D levels."
+  },
+  
+  
+  
+  "total_entries": "Total Entries:",
+  
+  "total": "Total:",
+ 
+  "dreams_logged": "Dreams Logged:",
+  
+
+  "home_welcome": "Welcome to MindSpace 💙",
+
+  "quote_5": "Start every day with a positive thought.",
+
+
+  "assessment_note": "This screening is not a diagnosis. If you are in crisis, contact emergency help immediately.",
+
+  "resource_foods_heading": "Nutrition & Wellbeing",
+  "resource_sleep_heading": "Sleep & Relaxation",
+  "resource_mood_heading": "Mood Tools",
+  "resource_journal_heading": "Journaling",
+
+ 
+    "blueberries_name": "Blueberries 🫐",
+    "blueberries_desc": "Rich in antioxidants that support brain health and mood.",
+
+    "strawberries_name": "Strawberries 🍓",
+    "strawberries_desc": "High in vitamin C and antioxidants for overall wellbeing.",
+
+    "dark_chocolate_name": "Dark Chocolate 🍫",
+    "dark_chocolate_desc": "Boosts serotonin and can improve mood in moderation.",
+
+    "salmon_name": "Salmon 🐟",
+    "salmon_desc": "High in omega-3 fatty acids that help reduce anxiety and depression.",
+
+    "fatty_fish_name": "Fatty Fish 🐟",
+    "fatty_fish_desc": "Excellent source of omega-3s beneficial for brain health.",
+
+    "tuna_name": "Tuna 🐟",
+    "tuna_desc": "Rich in omega-3s and protein to support mood regulation.",
+
+    "bananas_name": "Bananas 🍌",
+    "bananas_desc": "Contain vitamin B6 which supports serotonin production.",
+
+    "avocado_name": "Avocado 🥑",
+    "avocado_desc": "Healthy fats that support brain function and mood stability.",
+
+    "nuts_name": "Nuts 🥜",
+    "nuts_desc": "Rich in healthy fats, magnesium and vitamin E for stress relief.",
+
+    "almonds_name": "Almonds 🌰",
+    "almonds_desc": "Provide vitamin E and magnesium; helpful for stress and cognition.",
+
+    "walnuts_name": "Walnuts 🥜",
+    "walnuts_desc": "High in omega-3; supports brain health and cognition.",
+
+    "chia_seeds_name": "Chia Seeds 🌱",
+    "chia_seeds_desc": "Provide omega-3s and fiber that help mood and energy.",
+
+    "flaxseeds_name": "Flaxseeds 🌾",
+    "flaxseeds_desc": "Plant-based omega-3 source that supports brain health.",
+
+    "pumpkin_seeds_name": "Pumpkin Seeds 🎃",
+    "pumpkin_seeds_desc": "Contain zinc and magnesium linked to better mood.",
+
+    "spinach_name": "Spinach 🥬",
+    "spinach_desc": "Contains folate and magnesium that may reduce stress and fatigue.",
+
+    
+
+    "broccoli_name": "Broccoli 🥦",
+    "broccoli_desc": "High in vitamins and fiber; supports overall health.",
+
+    "bell_pepper_name": "Bell Pepper 🫑",
+    "bell_pepper_desc": "Rich in vitamin C which supports stress reduction.",
+
+    "tomato_name": "Tomato 🍅",
+    "tomato_desc": "Contains antioxidants and vitamin C for wellbeing.",
+
+    "lentils_name": "Lentils 🍲",
+    "lentils_desc": "High in fiber and folate; supports steady energy and mood.",
+
+    "chickpeas_name": "Chickpeas (Chana) 🧆",
+    "chickpeas_desc": "Good source of protein and fiber to stabilize blood sugar.",
+
+    "beans_name": "Beans 🍲",
+    "beans_desc": "Provide protein and nutrients that help balance mood.",
+
+    "oats_name": "Oats 🥣",
+    "oats_desc": "Great source of fiber; helps stabilize mood and energy.",
+
+    "whole_grains_name": "Whole Grains 🌾",
+    "whole_grains_desc": "Steady energy from complex carbs supports mood regulation.",
+
+    "brown_rice_name": "Brown Rice 🍚",
+    "brown_rice_desc": "Whole-grain carbohydrate for sustained energy and calm.",
+
+    "rice_name": "Rice 🍚",
+    "rice_desc": "Provides energy; calming and easy to digest.",
+
+    "chapati_name": "Chapati 🍞",
+    "chapati_desc": "Stable carbohydrate source that maintains energy.",
+
+    "oatmeal_name": "Oatmeal 🥣",
+    "oatmeal_desc": "Comforting, fiber-rich and mood stabilizing.",
+
+    "eggs_name": "Eggs 🍳",
+    "eggs_desc": "High in protein and nutrients that help regulate mood.",
+
+    "chicken_name": "Chicken 🍗",
+    "chicken_desc": "Lean protein with tryptophan that supports serotonin production.",
+
+    "turkey_name": "Turkey 🍗",
+    "turkey_desc": "Another tryptophan-rich protein that may boost mood.",
+
+    "beef_name": "Lean Beef 🥩",
+    "beef_desc": "Source of iron and B-vitamins important for energy and mood.",
+
+    "tofu_name": "Tofu 🧾",
+    "tofu_desc": "Plant-based protein with isoflavones supporting balance.",
+
+    "soy_name": "Soy Products 🫘",
+    "soy_desc": "Plant proteins that support mood and hormones.",
+
+    "yogurt_name": "Yogurt 🥛",
+    "yogurt_desc": "Probiotics improve gut health which is linked to mood.",
+
+    "kefir_name": "Kefir 🥛",
+    "kefir_desc": "Fermented dairy rich in probiotics for gut-brain health.",
+
+    "kimchi_name": "Kimchi (Fermented Veg) 🥬",
+    "kimchi_desc": "Fermented food supporting gut microbiome and mood.",
+
+    "mushroom_name": "Mushroom 🍄",
+    "mushroom_desc": "Supports vitamin D and brain function.",
+
+    "sweet_potato_name": "Sweet Potato 🍠",
+    "sweet_potato_desc": "Complex carbs and beta-carotene for steady energy.",
+
+    "potato_name": "Potato 🥔",
+    "potato_desc": "Comforting carbohydrate in moderation; stabilizes mood.",
+
+    "banana_name": "Banana 🍌",
+    "banana_desc": "Potassium and B6 support serotonin production.",
+
+    "apple_name": "Apple 🍎",
+    "apple_desc": "Packed with fiber and antioxidants for overall wellness.",
+
+    "orange_name": "Orange 🍊",
+    "orange_desc": "High in vitamin C; helps reduce stress hormones.",
+
+    "grapes_name": "Grapes 🍇",
+    "grapes_desc": "Rich in antioxidants that protect the brain.",
+
+    "papaya_name": "Papaya 🥭",
+    "papaya_desc": "Vitamin-rich fruit that supports digestion and wellbeing.",
+
+    "mango_name": "Mango 🥭",
+    "mango_desc": "Seasonal fruit with vitamins and mood-supporting nutrients.",
+
+    "pineapple_name": "Pineapple 🍍",
+    "pineapple_desc": "Contains bromelain and vitamin C to support health.",
+
+    "watermelon_name": "Watermelon 🍉",
+    "watermelon_desc": "Hydrating fruit that supports clarity and energy.",
+
+    "cucumber_name": "Cucumber 🥒",
+    "cucumber_desc": "Hydrating food that keeps the body refreshed.",
+
+    "carrot_name": "Carrot 🥕",
+    "carrot_desc": "Good for immunity and digestion.",
+
+    "garlic_name": "Garlic 🧄",
+    "garlic_desc": "Contains compounds that support overall health.",
+
+    "onion_name": "Onion 🧅",
+    "onion_desc": "Supports immune and metabolic health.",
+
+    "green_tea_name": "Green Tea 🍵",
+    "green_tea_desc": "Contains L-theanine which promotes relaxation without drowsiness.",
+
+    "chamomile_tea_name": "Chamomile Tea ☕",
+    "chamomile_tea_desc": "Herbal tea used to promote relaxation and sleep quality.",
+
+    "milk_name": "Milk 🥛",
+    "milk_desc": "Helps improve sleep and relaxation when consumed before bed.",
+
+    "honey_name": "Honey 🍯",
+    "honey_desc": "Natural sweetener with antioxidants and calming properties.",
+
+    "dark_leafy_greens_name": "Kale & Other Greens 🥬",
+    "dark_leafy_greens_desc": "High in vitamins and minerals for brain health.",
+
+    "chia_name": "Chia Seeds 🌱",
+    "chia_desc": "Good source of omega-3 and fiber for mood support.",
+
+    "almond_butter_name": "Almond Butter 🧈",
+    "almond_butter_desc": "Healthy fats and protein to stabilize blood sugar.",
+
+    "peanut_butter_name": "Peanut Butter 🥜",
+    "peanut_butter_desc": "Satisfying protein-rich spread in moderation.",
+
+    "coconut_water_name": "Coconut Water 🥥",
+    "coconut_water_desc": "Hydrating drink with electrolytes to reduce fatigue.",
+
+    "herbs_spices_name": "Herbs & Spices 🌿",
+    "herbs_spices_desc": "Turmeric, ginger and others can reduce inflammation and support mood.",
+
+    "comfort_foods_name": "Comfort Foods (moderation) 🍲",
+    "comfort_foods_desc": "Warm, familiar foods can soothe emotions when consumed mindfully."
+  ,
+
+  "foods_to_avoid_list": {
+    "excess_sugar": "Excess Sugar 🍭 — spikes blood sugar and worsens mood swings.",
+    "processed_foods": "Highly Processed Foods 🍟 — linked to inflammation and poor mood.",
+    "excess_caffeine": "Excess Caffeine ☕ — can increase anxiety and disrupt sleep.",
+    "excess_alcohol": "Excess Alcohol 🍺 — worsens depression and sleep quality.",
+    "trans_fats": "Trans Fats 🚫 — linked to inflammation and poor cognitive health."
+  },
+
+  "misc": {
+    "remember_note": "Answer honestly — there are no right or wrong answers.",
+    "privacy_note": "Your data is private and used to improve your wellbeing suggestions.",
+    "learn_more": "Learn More",
+    "get_help": "Get Help",
+    "add_entry": "Add Entry",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "search": "Search"
+  }
+
+}

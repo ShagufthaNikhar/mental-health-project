@@ -1,0 +1,932 @@
+{
+  "users": [],
+  "mood": [
+    {
+      "id": "U0fd-5TatD4mnivUIjQIV",
+      "userId": "anon",
+      "mood": 4,
+      "note": "Feeling productive today",
+      "createdAt": "2025-11-08T13:59:36.012Z"
+    },
+    {
+      "id": "5lypDpRJDMG8h_KU-NFbm",
+      "userId": "anon",
+      "mood": 2,
+      "note": "sad",
+      "createdAt": "2025-11-08T15:41:08.715Z"
+    },
+    {
+      "id": "h60Kh-gTXW56DusWwxwNi",
+      "userId": "anon",
+      "mood": 4,
+      "note": "happy",
+      "createdAt": "2025-11-08T15:46:28.671Z"
+    },
+    {
+      "id": "kJQHziVvtLTvyFHwxqmPN",
+      "userId": "anon",
+      "mood": 2,
+      "note": "ok ok",
+      "createdAt": "2025-11-12T14:54:59.753Z"
+    },
+    {
+      "id": "NzP-ura1xroeamZJH6fcv",
+      "userId": "anon",
+      "mood": 2,
+      "note": "nice",
+      "createdAt": "2025-11-12T15:21:38.642Z"
+    },
+    {
+      "id": "vl_a-sHvfovZQcK_22yEU",
+      "userId": "anon",
+      "mood": 2,
+      "note": "",
+      "createdAt": "2025-11-17T12:51:46.216Z"
+    },
+    {
+      "id": "VreMA_9cwvLtCO_bwMxAr",
+      "userId": "anon",
+      "mood": 5,
+      "note": "",
+      "createdAt": "2025-11-17T12:52:04.115Z"
+    },
+    {
+      "id": "swEDNKe4g1bT7dcUH0oha",
+      "userId": "zy0Sv6hxPsPMgkKtVsU1GhrD4d62",
+      "mood": 1,
+      "note": "",
+      "energy": 5,
+      "createdAt": "2025-11-19T07:29:56.576Z"
+    },
+    {
+      "id": "zb1g1Gdx6p4LCuD1P-lMJ",
+      "userId": "zy0Sv6hxPsPMgkKtVsU1GhrD4d62",
+      "mood": 1,
+      "note": "",
+      "energy": 5,
+      "createdAt": "2025-11-19T07:29:58.565Z"
+    },
+    {
+      "id": "T_R4ZG7XfCvni-CxslQ7_",
+      "userId": "zy0Sv6hxPsPMgkKtVsU1GhrD4d62",
+      "mood": 1,
+      "note": "",
+      "energy": 0,
+      "createdAt": "2025-11-19T07:30:15.922Z"
+    },
+    {
+      "id": "DIahfULhDtwXNhNWi_Jp5",
+      "userId": "zy0Sv6hxPsPMgkKtVsU1GhrD4d62",
+      "mood": 3,
+      "note": "",
+      "energy": 5,
+      "createdAt": "2025-11-19T14:48:49.785Z"
+    },
+    {
+      "id": "U2T4haRVh_SalFUWSC5A6",
+      "userId": "zy0Sv6hxPsPMgkKtVsU1GhrD4d62",
+      "mood": 3,
+      "note": "",
+      "energy": 5,
+      "createdAt": "2025-11-19T14:48:51.545Z"
+    },
+    {
+      "id": "Kc8_8eTOlWG-VQCCwjZOj",
+      "userId": "zy0Sv6hxPsPMgkKtVsU1GhrD4d62",
+      "mood": 2,
+      "note": "",
+      "energy": 3,
+      "createdAt": "2025-11-20T05:35:15.750Z"
+    },
+    {
+      "id": "cFAFHfa3W2AWQEa7C7qoY",
+      "userId": "zy0Sv6hxPsPMgkKtVsU1GhrD4d62",
+      "mood": 2,
+      "note": "",
+      "energy": 7,
+      "createdAt": "2025-11-20T12:38:12.717Z"
+    },
+    {
+      "id": "ElzLp4hYEgkU-i7croExw",
+      "userId": "zy0Sv6hxPsPMgkKtVsU1GhrD4d62",
+      "mood": 2,
+      "note": "",
+      "energy": 3,
+      "createdAt": "2025-11-21T03:25:12.896Z"
+    },
+    {
+      "id": "kCOecDa5a6g3-NHpKQDCx",
+      "userId": "zy0Sv6hxPsPMgkKtVsU1GhrD4d62",
+      "mood": 3,
+      "note": "",
+      "energy": 6,
+      "createdAt": "2025-11-21T05:34:14.268Z"
+    },
+    {
+      "id": "oRvCd1rn5CDoVOEXXWT4b",
+      "userId": "zy0Sv6hxPsPMgkKtVsU1GhrD4d62",
+      "mood": 3,
+      "note": "",
+      "energy": 2,
+      "createdAt": "2025-11-21T10:20:48.707Z"
+    }
+  ],
+  "journals": [
+    {
+      "id": "GdwxdZklreM2-K1_ThlyC",
+      "userId": "anon",
+      "content": "i am happy",
+      "createdAt": "2025-11-08T14:05:05.950Z"
+    },
+    {
+      "id": "F1mOULix1HlMC0VmRcr9n",
+      "userId": "anon",
+      "content": "hello",
+      "createdAt": "2025-11-08T15:41:18.328Z"
+    },
+    {
+      "id": "dGRfwffJC3Wfo-ePU8LNm",
+      "userId": "anon",
+      "content": "i am sad",
+      "createdAt": "2025-11-08T15:46:40.320Z"
+    },
+    {
+      "id": "u-CZE3rwcZJh6HgZjjNnq",
+      "userId": "anon",
+      "content": "i am happy",
+      "createdAt": "2025-11-12T15:21:47.861Z"
+    },
+    {
+      "id": "uV1ifhqdbatjJFNmCNeUB",
+      "userId": "anon",
+      "content": "My sister don't like me ",
+      "createdAt": "2025-11-17T12:53:04.204Z"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "jzyQahpzT-8_MBWX7zOFf",
+      "userId": "anon",
+      "name": "shagu",
+      "email": "shagu@gmail.com",
+      "date": "2025-11-10",
+      "slot": "12:00 PM",
+      "status": "booked",
+      "createdAt": "2025-11-08T14:09:07.929Z"
+    },
+    {
+      "id": "0WtB0hxtj2E_r8xFYa0tj",
+      "userId": "anon",
+      "name": "shahi",
+      "email": "abc@gmail.com",
+      "date": "2025-11-16",
+      "slot": "10:00 AM",
+      "status": "booked",
+      "createdAt": "2025-11-08T15:41:42.358Z"
+    },
+    {
+      "id": "tPPcL0Rq0t4pVW3f2tkxp",
+      "userId": "anon",
+      "name": "a",
+      "email": "ab@gmail.com",
+      "date": "2025-11-10",
+      "slot": "03:00 PM",
+      "status": "booked",
+      "createdAt": "2025-11-08T15:47:00.207Z"
+    }
+  ],
+  "resources": [
+    {
+      "id": "r1",
+      "title": "5-Minute Guided Meditation",
+      "type": "Video",
+      "lang": "English",
+      "url": "https://www.youtube.com/watch?v=inpok4MKVLM"
+    },
+    {
+      "id": "r2",
+      "title": "Deep Breathing Exercise (Audio)",
+      "type": "Audio",
+      "lang": "English",
+      "url": "https://www.youtube.com/watch?v=aNXKjGFUlMs"
+    },
+    {
+      "id": "r3",
+      "title": "Understanding Anxiety — Article",
+      "type": "Article",
+      "lang": "English",
+      "url": "https://www.verywellmind.com/what-is-anxiety-2795394"
+    },
+    {
+      "id": "r4",
+      "title": "Calm Sleep Sounds (Rain)",
+      "type": "Audio",
+      "lang": "English",
+      "url": "https://www.youtube.com/watch?v=6zGQSWib32I"
+    },
+    {
+      "id": "en_a1",
+      "title": "Managing Stress - WHO Guide",
+      "type": "Article",
+      "lang": "English",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/stress"
+    },
+    {
+      "id": "en_a2",
+      "title": "Emotional Wellbeing – Healthline",
+      "type": "Article",
+      "lang": "English",
+      "url": "https://www.healthline.com/health/emotional-health"
+    },
+    {
+      "id": "en_p1",
+      "title": "The Happiness Lab Podcast (Spotify)",
+      "type": "Podcast",
+      "lang": "English",
+      "url": "https://open.spotify.com/show/2i2XQ8zf0JaS1tEgi6y5im"
+    },
+    {
+      "id": "en_p2",
+      "title": "Mental Health Foundation Podcast",
+      "type": "Podcast",
+      "lang": "English",
+      "url": "https://open.spotify.com/show/0uG8zGTf5ZzCLeQGfFqbZm"
+    },
+    {
+      "id": "en_au1",
+      "title": "Rain Sounds for Sleep (Real ASMR)",
+      "type": "Audio",
+      "lang": "English",
+      "url": "https://www.youtube.com/watch?v=6zGQSWib32I"
+    },
+    {
+      "id": "en_au2",
+      "title": "5-Min Guided Meditation",
+      "type": "Audio",
+      "lang": "English",
+      "url": "https://www.youtube.com/watch?v=inpok4MKVLM"
+    },
+    {
+      "id": "en_v1",
+      "title": "Yoga For Relaxation – Yoga With Adriene",
+      "type": "Video",
+      "lang": "English",
+      "url": "https://www.youtube.com/watch?v=ZToicYcHIOU"
+    },
+    {
+      "id": "en_v2",
+      "title": "Deep Breathing Exercise – Mayo Clinic",
+      "type": "Video",
+      "lang": "English",
+      "url": "https://www.youtube.com/watch?v=nmFUDkj1Aq0"
+    },
+    {
+      "id": "hi_a1",
+      "title": "तनाव प्रबंधन – MyGov India",
+      "type": "Article",
+      "lang": "Hindi",
+      "url": "https://www.mygov.in/hi/group-issue/stress-management/"
+    },
+    {
+      "id": "hi_a2",
+      "title": "भावनात्मक स्वास्थ्य – UNICEF Hindi",
+      "type": "Article",
+      "lang": "Hindi",
+      "url": "https://www.unicef.org/india/stories/emotional-well-being"
+    },
+    {
+      "id": "hi_p1",
+      "title": "Hindi Mental Health Podcast",
+      "type": "Podcast",
+      "lang": "Hindi",
+      "url": "https://open.spotify.com/show/0CqXuAu3t1B4QgmO6ijLJr"
+    },
+    {
+      "id": "hi_p2",
+      "title": "Wisdom Hindi Podcast (Mindfulness)",
+      "type": "Podcast",
+      "lang": "Hindi",
+      "url": "https://open.spotify.com/show/4JslZBYQGj33jjXNMTvEih"
+    },
+    {
+      "id": "hi_au1",
+      "title": "Hindi Guided Meditation",
+      "type": "Audio",
+      "lang": "Hindi",
+      "url": "https://www.youtube.com/watch?v=VZ_wdeog5E8"
+    },
+    {
+      "id": "hi_au2",
+      "title": "Rain Sounds Hindi (Real ASMR)",
+      "type": "Audio",
+      "lang": "Hindi",
+      "url": "https://www.youtube.com/watch?v=06E5LIx_hXA"
+    },
+    {
+      "id": "hi_v1",
+      "title": "योग निद्रा – आर्ट ऑफ लिविंग",
+      "type": "Video",
+      "lang": "Hindi",
+      "url": "https://www.youtube.com/watch?v=7HcV6qvW7tY"
+    },
+    {
+      "id": "hi_v2",
+      "title": "प्राणायाम ट्यूटोरियल हिंदी",
+      "type": "Video",
+      "lang": "Hindi",
+      "url": "https://www.youtube.com/watch?v=q5m6tMjcF8k"
+    },
+    {
+      "id": "te_a1",
+      "title": "మానసిక ఆరోగ్యం – UNICEF Telugu",
+      "type": "Article",
+      "lang": "Telugu",
+      "url": "https://www.unicef.org/india/stories/mental-health-telugu"
+    },
+    {
+      "id": "te_a2",
+      "title": "ఒత్తిడి నిర్వహణ – Manas (Gov of India)",
+      "type": "Article",
+      "lang": "Telugu",
+      "url": "https://manas.mohfw.gov.in/telugu/"
+    },
+    {
+      "id": "te_p1",
+      "title": "Telugu Wellness Podcast",
+      "type": "Podcast",
+      "lang": "Telugu",
+      "url": "https://open.spotify.com/show/6u9JwJzQjmlg4XnuR3ySLl"
+    },
+    {
+      "id": "te_p2",
+      "title": "Telugu Daily Motivation (Podcast)",
+      "type": "Podcast",
+      "lang": "Telugu",
+      "url": "https://open.spotify.com/show/4C5yVHr2qVfgROo-kDHmmy"
+    },
+    {
+      "id": "te_au1",
+      "title": "Telugu Meditation Music",
+      "type": "Audio",
+      "lang": "Telugu",
+      "url": "https://www.youtube.com/watch?v=4p3A6yFawuM"
+    },
+    {
+      "id": "te_au2",
+      "title": "Rain Sounds Telugu (Sleep)",
+      "type": "Audio",
+      "lang": "Telugu",
+      "url": "https://www.youtube.com/watch?v=Vr1JH8UJfgE"
+    },
+    {
+      "id": "te_v1",
+      "title": "Telugu Yoga for Relaxation",
+      "type": "Video",
+      "lang": "Telugu",
+      "url": "https://www.youtube.com/watch?v=7LxH6O8WcQw"
+    },
+    {
+      "id": "te_v2",
+      "title": "Breathing Exercise Telugu",
+      "type": "Video",
+      "lang": "Telugu",
+      "url": "https://www.youtube.com/watch?v=qEJ5MD4yOj0"
+    },
+    {
+      "id": "kn_a1",
+      "title": "ಮಾನಸಿಕ ಆರೋಗ್ಯ – UNICEF Kannada",
+      "type": "Article",
+      "lang": "Kannada",
+      "url": "https://www.unicef.org/india/stories/mental-health-kannada"
+    },
+    {
+      "id": "kn_a2",
+      "title": "ಒತ್ತಡ ನಿರ್ವಹಣೆ – Manas (Gov of India)",
+      "type": "Article",
+      "lang": "Kannada",
+      "url": "https://manas.mohfw.gov.in/kannada/"
+    },
+    {
+      "id": "kn_p1",
+      "title": "Kannada Life Skills Podcast",
+      "type": "Podcast",
+      "lang": "Kannada",
+      "url": "https://open.spotify.com/show/0MIGei1cIu05o2IaNbS1Ry"
+    },
+    {
+      "id": "kn_p2",
+      "title": "Kannada Motivation Podcast",
+      "type": "Podcast",
+      "lang": "Kannada",
+      "url": "https://open.spotify.com/show/3XrjXQOTSGx3Y4tF3ciH2k"
+    },
+    {
+      "id": "kn_au1",
+      "title": "Kannada Meditation Music",
+      "type": "Audio",
+      "lang": "Kannada",
+      "url": "https://www.youtube.com/watch?v=Ml2ZzRMHfQA"
+    },
+    {
+      "id": "kn_au2",
+      "title": "Relaxing Rain Sounds (Kannada)",
+      "type": "Audio",
+      "lang": "Kannada",
+      "url": "https://www.youtube.com/watch?v=Mx6xFqYTJ-w"
+    },
+    {
+      "id": "kn_v1",
+      "title": "Yoga in Kannada – Beginners",
+      "type": "Video",
+      "lang": "Kannada",
+      "url": "https://www.youtube.com/watch?v=U9iBvTBVQKA"
+    },
+    {
+      "id": "kn_v2",
+      "title": "Breathing Exercise Kannada",
+      "type": "Video",
+      "lang": "Kannada",
+      "url": "https://www.youtube.com/watch?v=srxA2tdS1ho"
+    },
+    {
+      "id": "mr_a1",
+      "title": "भावनिक स्वास्थ्य – UNICEF Marathi",
+      "type": "Article",
+      "lang": "Marathi",
+      "url": "https://www.unicef.org/india/stories/emotional-well-being-marathi"
+    },
+    {
+      "id": "mr_a2",
+      "title": "तणाव व्यवस्थापन – Manas Gov India",
+      "type": "Article",
+      "lang": "Marathi",
+      "url": "https://manas.mohfw.gov.in/marathi/"
+    },
+    {
+      "id": "mr_p1",
+      "title": "Marathi Motivation Podcast",
+      "type": "Podcast",
+      "lang": "Marathi",
+      "url": "https://open.spotify.com/show/04ZWcCzBN03cxQKqJkQW2R"
+    },
+    {
+      "id": "mr_p2",
+      "title": "Marathi Life Lessons Podcast",
+      "type": "Podcast",
+      "lang": "Marathi",
+      "url": "https://open.spotify.com/show/7pJTY2Bz3d6kGKuX3sI5G0"
+    },
+    {
+      "id": "mr_au1",
+      "title": "Marathi Meditation Music",
+      "type": "Audio",
+      "lang": "Marathi",
+      "url": "https://www.youtube.com/watch?v=wCEiUeJ8GFs"
+    },
+    {
+      "id": "mr_au2",
+      "title": "Rain Sounds for Mind Relaxation",
+      "type": "Audio",
+      "lang": "Marathi",
+      "url": "https://www.youtube.com/watch?v=s2O3lEyx-n8"
+    },
+    {
+      "id": "mr_v1",
+      "title": "Marathi Yoga Session",
+      "type": "Video",
+      "lang": "Marathi",
+      "url": "https://www.youtube.com/watch?v=oBu-pQG6sTY"
+    },
+    {
+      "id": "mr_v2",
+      "title": "Pranayama in Marathi",
+      "type": "Video",
+      "lang": "Marathi",
+      "url": "https://www.youtube.com/watch?v=s9z5dMMjGho"
+    },
+    {
+      "id": "ur_a1",
+      "title": "دماغی صحت – UNICEF Urdu",
+      "type": "Article",
+      "lang": "Urdu",
+      "url": "https://www.unicef.org/india/stories/mental-health-urdu"
+    },
+    {
+      "id": "ur_a2",
+      "title": "تناؤ اور ذہنی سکون – Govt India",
+      "type": "Article",
+      "lang": "Urdu",
+      "url": "https://manas.mohfw.gov.in/urdu/"
+    },
+    {
+      "id": "ur_p1",
+      "title": "Urdu Islamic & Mindfulness Podcast",
+      "type": "Podcast",
+      "lang": "Urdu",
+      "url": "https://open.spotify.com/show/6F8wYRMxwvx6pRP70dNDOJ"
+    },
+    {
+      "id": "ur_p2",
+      "title": "Urdu Life Coaching Podcast",
+      "type": "Podcast",
+      "lang": "Urdu",
+      "url": "https://open.spotify.com/show/0E97Wua0W56VjA2aJYdVCH"
+    },
+    {
+      "id": "ur_au1",
+      "title": "Urdu Meditation Audio",
+      "type": "Audio",
+      "lang": "Urdu",
+      "url": "https://www.youtube.com/watch?v=AEGvsIhiHB8"
+    },
+    {
+      "id": "ur_au2",
+      "title": "Rain Sound Urdu Version",
+      "type": "Audio",
+      "lang": "Urdu",
+      "url": "https://www.youtube.com/watch?v=KX0zJwO5Vv8"
+    },
+    {
+      "id": "ur_v1",
+      "title": "Urdu Yoga Class",
+      "type": "Video",
+      "lang": "Urdu",
+      "url": "https://www.youtube.com/watch?v=Yx1VbWcv16M"
+    },
+    {
+      "id": "ur_v2",
+      "title": "Breathing Meditation Urdu",
+      "type": "Video",
+      "lang": "Urdu",
+      "url": "https://www.youtube.com/watch?v=iO5rBiywLt0"
+    }
+  ],
+  "crisis": [
+    {
+      "id": "helpline1",
+      "number": "9152987821",
+      "note": "AASRA 24x7 Helpline (All India)"
+    },
+    {
+      "id": "helpline2",
+      "number": "18005990019",
+      "note": "Government Helpline - KIRAN (Mental Health)"
+    },
+    {
+      "id": "helpline3",
+      "number": "9152987820",
+      "note": "Snehi Helpline - Emotional Support"
+    }
+  ],
+  "chatHistory": [
+    {
+      "id": "mSBFfg_V4kbSA4v-L_PJV",
+      "sender": "bot",
+      "text": "Chat history cleared! Let's start fresh 🌱",
+      "createdAt": "2025-11-11T15:14:01.478Z"
+    },
+    {
+      "id": "Ztdbg-LFFDPbhctihgsJk",
+      "sender": "user",
+      "text": "hi",
+      "createdAt": "2025-11-11T18:15:03.842Z"
+    },
+    {
+      "id": "CnS2N2Y_V-NRnofclCRF1",
+      "sender": "bot",
+      "text": "Hello! How are you feeling today?",
+      "createdAt": "2025-11-11T18:15:08.175Z"
+    },
+    {
+      "id": "g6m1dPrrOUgCXZlHtQR7n",
+      "sender": "user",
+      "text": "assessment",
+      "createdAt": "2025-11-11T18:16:54.850Z"
+    },
+    {
+      "id": "eCo6_3jdR-qixTSIGa0p9",
+      "sender": "bot",
+      "text": "It seems like you might be looking for an assessment of some kind. Could you please elaborate a bit more on what you need? Are you seeking a self-assessment, a mental health check-in, or something related to personal goals? I'm here to help!",
+      "createdAt": "2025-11-11T18:16:59.678Z"
+    },
+    {
+      "id": "w2f4MI--xYX8w4PYLI1yj",
+      "sender": "user",
+      "text": "hi",
+      "createdAt": "2025-11-11T18:34:27.572Z"
+    },
+    {
+      "id": "ga-0Ht1s6JTcIJnkxgVIQ",
+      "sender": "bot",
+      "text": "Hello! How are you today? Remember, it's okay to share whatever’s on your mind. I'm here for you!",
+      "createdAt": "2025-11-11T18:34:31.784Z"
+    },
+    {
+      "id": "TlXm42UlYYkzUrqwuszCo",
+      "sender": "user",
+      "text": "hi",
+      "createdAt": "2025-11-12T14:40:57.356Z"
+    },
+    {
+      "id": "-5u54PmjzADBw8xp6LFUc",
+      "sender": "bot",
+      "text": "Hello! How are you feeling today? I'm here to listen and support you.",
+      "createdAt": "2025-11-12T14:41:01.453Z"
+    },
+    {
+      "id": "Gh_QUh9qpMcs4_EUNocUg",
+      "sender": "user",
+      "text": "i am sad",
+      "createdAt": "2025-11-12T14:54:33.264Z"
+    },
+    {
+      "id": "8E5lJsyMir75aUGVCLZZK",
+      "sender": "bot",
+      "text": "I'm really sorry to hear that you're feeling this way. It's okay to feel sad sometimes; it's a natural part of being human. If you'd like, you can share what's on your mind, and I'm here to listen and support you. You're not alone in this.",
+      "createdAt": "2025-11-12T14:54:40.443Z"
+    },
+    {
+      "id": "EyfbkbyNLVd19E8r2_DQ8",
+      "sender": "user",
+      "text": "hi",
+      "createdAt": "2025-11-12T15:21:18.433Z"
+    },
+    {
+      "id": "jl_6n8OqV_seE3YWEfvX4",
+      "sender": "bot",
+      "text": "Hello! How are you feeling today?",
+      "createdAt": "2025-11-12T15:21:22.921Z"
+    },
+    {
+      "id": "qswt3F8zoIJhj1alXCo8w",
+      "sender": "user",
+      "text": "hi",
+      "createdAt": "2025-11-13T05:26:02.661Z"
+    },
+    {
+      "id": "Y8fzqdDgSXH0_ozm9Eolw",
+      "sender": "bot",
+      "text": "Hello! How are you feeling today?",
+      "createdAt": "2025-11-13T05:26:06.331Z"
+    },
+    {
+      "id": "NEhFKgfXI7xmC4YRW1dNe",
+      "sender": "user",
+      "text": "hi",
+      "createdAt": "2025-11-13T14:29:20.564Z"
+    },
+    {
+      "id": "LsE2yDlDylHg1J8HUq2yr",
+      "sender": "bot",
+      "text": "Hello! How are you feeling today?",
+      "createdAt": "2025-11-13T14:29:25.264Z"
+    },
+    {
+      "id": "9PcVKWWHzunxeppwk5Fv5",
+      "sender": "user",
+      "text": "hi",
+      "createdAt": "2025-11-13T14:30:46.326Z"
+    },
+    {
+      "id": "fm-qxbhKmhL6ZI6gPIzTo",
+      "sender": "bot",
+      "text": "Hello! How are you feeling today? I'm here for you.",
+      "createdAt": "2025-11-13T14:30:50.968Z"
+    },
+    {
+      "id": "ZpGgPHm88Q3cSropMjbFC",
+      "sender": "user",
+      "text": "main udas hu",
+      "createdAt": "2025-11-13T14:31:54.121Z"
+    },
+    {
+      "id": "YreCTon8dzidAopwzaKcF",
+      "sender": "bot",
+      "text": "Aapka swagat hai! Aapka din kaisa guzar raha hai? Yadi aapko kuch kehna hai ya koi baat share karni hai, toh main yahan aapki madad ke liye hoon. Aapka mann kaisa hai?",
+      "createdAt": "2025-11-13T14:32:00.247Z"
+    },
+    {
+      "id": "f-bLL8xUcAXK5cK_p8lpH",
+      "sender": "user",
+      "text": "hi",
+      "createdAt": "2025-11-19T15:09:58.961Z"
+    },
+    {
+      "id": "HrmXG94TyRvM2VyQabbRr",
+      "sender": "bot",
+      "text": "Hello! How can I assist you today?",
+      "createdAt": "2025-11-19T15:10:04.558Z"
+    },
+    {
+      "id": "ZYQwr7u7dkbQM7LDk_Wlm",
+      "sender": "user",
+      "text": "i am sad",
+      "createdAt": "2025-11-19T15:10:16.598Z"
+    },
+    {
+      "id": "U1NwB_l6ZeYOfM4MNb3nm",
+      "sender": "bot",
+      "text": "I’m really sorry to hear that you’re feeling this way. It’s okay to feel sad sometimes. If you’d like to share what’s on your mind, I’m here to listen and help you through it.",
+      "createdAt": "2025-11-19T15:10:24.693Z"
+    }
+  ],
+  "assessments": [
+    {
+      "id": "lLqXkHnngFT52IYyR0vyC",
+      "userId": "anon",
+      "type": "WHO5",
+      "score": 10,
+      "level": "Possible depression (low well-being)",
+      "createdAt": "2025-11-08T17:29:39.147Z"
+    },
+    {
+      "id": "LOajwb9hQD1JUc5oMUOox",
+      "userId": "anon",
+      "type": "GAD7",
+      "score": 10,
+      "level": "Moderate anxiety",
+      "createdAt": "2025-11-08T17:35:33.690Z"
+    },
+    {
+      "id": "aT8-0mIDRUwmhrY4_EIKm",
+      "userId": "anon",
+      "type": "GAD7",
+      "score": 10,
+      "level": "Moderate anxiety",
+      "createdAt": "2025-11-08T17:35:38.509Z"
+    },
+    {
+      "id": "KirowwyEA_NxcieeHybnF",
+      "userId": "anon",
+      "type": "GAD7",
+      "score": 10,
+      "level": "Moderate anxiety",
+      "createdAt": "2025-11-08T17:36:18.905Z"
+    },
+    {
+      "id": "hVW9uIy900JMAUlk3Du70",
+      "userId": "anon",
+      "type": "GAD7",
+      "score": 21,
+      "level": "Severe anxiety",
+      "createdAt": "2025-11-08T17:36:42.202Z"
+    },
+    {
+      "id": "YJWReYEzjqmueKzpitO47",
+      "userId": "anon",
+      "type": "WHO5",
+      "score": 25,
+      "level": "Good well-being",
+      "createdAt": "2025-11-08T17:48:35.128Z"
+    },
+    {
+      "id": "DW2EYG0S3YfGzO_z9dSED",
+      "userId": "zy0Sv6hxPsPMgkKtVsU1GhrD4d62",
+      "type": "WHO5",
+      "score": 13,
+      "level": "Good well-being",
+      "date": "2025-11-20T10:51:38.574Z"
+    },
+    {
+      "id": "9Fcpf8XjkdZKAF-XGdoGM",
+      "userId": "zy0Sv6hxPsPMgkKtVsU1GhrD4d62",
+      "type": "GAD7",
+      "score": 9,
+      "level": "Mild anxiety",
+      "date": "2025-11-20T11:02:23.912Z"
+    },
+    {
+      "id": "vLs8w07WCG0KHpaW-YDCz",
+      "userId": "zy0Sv6hxPsPMgkKtVsU1GhrD4d62",
+      "type": "GAD7",
+      "score": 9,
+      "level": "Mild anxiety",
+      "date": "2025-11-20T11:02:28.957Z"
+    },
+    {
+      "id": "Nz-pu0tKssezgr3dby0vq",
+      "userId": "71vhdiDUHMasaMcybcjUL4ssADh2",
+      "type": "WHO5",
+      "score": 17,
+      "level": "Good well-being",
+      "date": "2025-11-20T12:35:42.043Z"
+    },
+    {
+      "id": "z3qa3thJCCbzoYPu25jQ1",
+      "userId": "zy0Sv6hxPsPMgkKtVsU1GhrD4d62",
+      "type": "WHO5",
+      "score": 4,
+      "level": "Possible depression (low well-being)",
+      "date": "2025-11-21T03:22:05.870Z"
+    },
+    {
+      "id": "IPD9-qfj9wfeOb0QyjWcw",
+      "userId": "zy0Sv6hxPsPMgkKtVsU1GhrD4d62",
+      "type": "WHO5",
+      "score": 12,
+      "level": "Possible depression (low well-being)",
+      "date": "2025-11-21T05:33:05.699Z"
+    },
+    {
+      "id": "BsoTky4q9JxSVja8fsikG",
+      "userId": "zy0Sv6hxPsPMgkKtVsU1GhrD4d62",
+      "type": "WHO5",
+      "score": 5,
+      "level": "Possible depression (low well-being)",
+      "date": "2025-11-21T10:17:44.334Z"
+    }
+  ],
+  "emergencyContacts": [
+    {
+      "id": "z_bDM4wP3kvZXRTqrizwQ",
+      "name": "shagu",
+      "phone": "+91 9108775301",
+      "relation": "sis",
+      "createdAt": "2025-11-18T13:59:17.369Z"
+    },
+    {
+      "id": "lpoWWXZdu5-X8w4ta4iFt",
+      "name": "shaistha",
+      "phone": "+91 6362012248",
+      "relation": "sis",
+      "createdAt": "2025-11-18T13:59:59.004Z"
+    },
+    {
+      "id": "eURbfQW4lx_Xmv4TVOuqW",
+      "name": "nisar",
+      "phone": "9980108503",
+      "relation": "dad",
+      "createdAt": "2025-11-20T10:33:01.011Z"
+    },
+    {
+      "id": "kn7zR__wagMKHzss-hS_B",
+      "name": "samruddhi",
+      "phone": "9849677075",
+      "relation": "friend",
+      "createdAt": "2025-11-21T03:24:38.510Z"
+    }
+  ],
+  "dreams": [
+    {
+      "id": "7SNQst7Py4ZWk4YQLYhB_",
+      "userId": "anon",
+      "title": "something",
+      "description": "idk",
+      "emotions": "Anxious",
+      "clarity": "Vivid",
+      "sleepQuality": "Average",
+      "createdAt": "2025-11-08T19:15:31.522Z"
+    },
+    {
+      "id": "bPcoAfOuLY7pjKAC9B_cE",
+      "userId": "anon",
+      "title": "food",
+      "description": "i had many types of food and there was a lot of water ",
+      "emotions": "Happy",
+      "clarity": "Vivid",
+      "sleepQuality": "Good",
+      "createdAt": "2025-11-18T15:35:16.867Z"
+    },
+    {
+      "id": "F3CyB8J4petZolVzFowI-",
+      "userId": "anon",
+      "title": "nigthmare",
+      "description": "i was being chased by numerous ghost",
+      "emotions": "Scary",
+      "clarity": "Blurry",
+      "sleepQuality": "Average",
+      "createdAt": "2025-11-21T03:27:53.660Z"
+    },
+    {
+      "id": "T9oEV44Rs2_WR1otwhNxm",
+      "userId": "anon",
+      "title": "program not running",
+      "description": "My code was executing properly, but all of sudden for some mistakes maybe my code got many bugs, and I couldn't present well during my presentation.",
+      "emotions": "Anxious",
+      "clarity": "Vivid",
+      "sleepQuality": "Average",
+      "createdAt": "2025-11-21T03:30:29.812Z"
+    },
+    {
+      "id": "38RTIgjshDVetr0vRzncl",
+      "userId": "anon",
+      "title": "house",
+      "description": "my house was burning",
+      "emotions": "Scary",
+      "clarity": "Vivid",
+      "sleepQuality": "Average",
+      "createdAt": "2025-11-21T07:59:58.657Z"
+    }
+  ],
+  "community": [
+    {
+      "id": "p6trQmlRylhQAD-xxrScD",
+      "userId": "anon",
+      "name": "Anonymous",
+      "topic": "sress",
+      "message": "i had many struggles",
+      "likes": 2,
+      "createdAt": "2025-11-08T19:22:56.897Z"
+    }
+  ]
+}
