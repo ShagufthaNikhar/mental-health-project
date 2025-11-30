@@ -1,54 +1,53 @@
-🎯 MindSpace – Multilingual AI Mental Health Support System
+🌟 MindSpace – Multilingual AI Mental Health Support System
 
-A digital mental health support platform designed for Indian students, offering AI-based emotional support, mood tracking, journaling, sleep tools, dream logging, appointments, crisis support, and institution dashboards — all in six Indian languages.
+A digital mental health support platform created for Indian students, offering AI-powered emotional support, mood and journal tracking, dream logging, sleep sounds, appointments, community support, and institution dashboards — available in 6 Indian languages.
 
 🚀 Features
-
 🧠 AI Mental Health Chatbot
 
-Empathetic chatbot powered by Gemini (primary) and OpenAI (fallback)
+Powered by Google Gemini (primary) + OpenAI fallback
 
-Provides emotional support and guidance
+Provides empathetic emotional support
 
 Supports English, Hindi, Kannada, Marathi, Telugu, and Urdu
 
-📊 Mood & Wellness Tracking
+📊 Mood & Wellness Tools
 
-Daily mood logging
+Mood tracker
 
-Journal entries
+Journal writing
 
 Dream logging
 
 Sleep sound library
 
-🩺 Mental Health Assessments
+🩺 Assessments
 
 WHO-5 Well-Being Index
 
 GAD-7 Anxiety Assessment
 
-💬 Anonymous Community Space
+💬 Anonymous Community
 
-Students can share thoughts anonymously
+Share posts safely
 
-Like and interact safely
+Like and interact anonymously
 
-📅 Appointments & Emergency Support
+📅 Counselling & Safety Support
 
-Book counselling sessions
+Book counselling appointments
 
 Add emergency contacts
 
-Crisis helplines available 24/7
+Access crisis helplines instantly
 
 📈 Dashboards
 
-Student Dashboard: Mood trends & history
+Student Dashboard – Mood history, patterns
 
-Admin Dashboard: Overview of activities
+Admin Dashboard – Activity overview
 
-Institution Dashboard: Anonymous analytics for well-being trends
+Institution Dashboard – Anonymous well-being analytics
 
 🛠️ Tech Stack
 Frontend
@@ -59,9 +58,9 @@ Vite
 
 Tailwind CSS
 
-Framer Motion
-
 Recharts
+
+Framer Motion
 
 Axios
 
@@ -71,7 +70,7 @@ Node.js
 
 Express.js
 
-LowDB (JSON-based DB)
+LowDB (JSON database)
 
 Firebase Authentication
 
@@ -82,31 +81,29 @@ Google Gemini API
 OpenAI API
 
 📂 Project Structure
-/frontend
-  ├── src/
-  │   ├── pages/
-  │   ├── components/
-  │   ├── layout/
-  │   ├── App.jsx
-  │   └── firebaseConfig.js
-
-/backend
-  ├── server.js
-  ├── db.json
-  ├── package.json
-  └── .env
+MindSpace/
+│
+├── frontend/
+│   ├── src/
+│   ├── components/
+│   └── App.jsx
+│
+└── backend/
+    ├── server.js
+    ├── db.json
+    └── .env
 
 ▶️ Installation & Setup
-1. Clone the Repository
+1️⃣ Clone the Repository
 git clone https://github.com/your-username/mindspace.git
 cd mindspace
 
-2. Setup Backend
+2️⃣ Backend Setup
 cd backend
 npm install
 
 
-Create .env file:
+Create a .env file:
 
 GEMINI_API_KEY=your_key
 OPENAI_API_KEY=your_key
@@ -117,51 +114,48 @@ Start backend:
 node server.js
 
 
-Backend runs on: http://localhost:4000
+Backend runs at: http://localhost:4000
 
-3. Setup Frontend
+3️⃣ Frontend Setup
 cd frontend
 npm install
 npm run dev
 
 
-Frontend runs on: http://localhost:5173
+Frontend runs at: http://localhost:5173
 
 🧪 Testing
+✔ Functional Testing
 
-All API routes tested using Postman / Thunder Client
+Mood tracker, journals, dreams, appointments, emergency contacts, assessments, community, dashboard.
 
-UI tested for responsiveness and form validation
+✔ API Testing
 
-Functional tests done for mood, journals, dreams, appointments, chatbot, and dashboards
+All API routes tested using Postman/Thunder Client.
+
+✔ UI Testing
+
+Responsive UI, form validation, component behavior, navigation flow.
 
 🔐 Security
 
 Firebase Authentication for secure login
 
-No sensitive data stored in browser
+No passwords stored locally
 
-LowDB used for local JSON data storage
+All user data stored in LowDB securely
 
-📌 Future Scope
+🔮 Future Scope
 
-Dedicated counsellor portal
+Counsellor dashboard
 
-Advanced AI analytics for early-risk detection
+Advanced AI risk-pattern analytics
 
 More regional languages
 
-Mobile application (Android/iOS)
+Mobile app (Android/iOS)
 
 👩‍💻 Author
 
 Shaguftha Nikhar
-AI Mental Health Support System – Pre Final Year Project
-
-
-
-Pull requests are welcome! For major changes, open an issue first.
-
-📜 License
-
-MIT License
+Pre Final Year Project – AI Mental Health Support System
