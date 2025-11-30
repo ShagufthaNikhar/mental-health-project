@@ -1,9 +1,9 @@
-🌟 MindSpace – Multilingual AI Mental Health Support System
+#🌟 MindSpace – Multilingual AI Mental Health Support System
 
 A digital mental health support platform created for Indian students, offering AI-powered emotional support, mood and journal tracking, dream logging, sleep sounds, appointments, community support, and institution dashboards — available in 6 Indian languages.
 
-🚀 Features
-🧠 AI Mental Health Chatbot
+##🚀 Features
+###🧠 AI Mental Health Chatbot
 
 Powered by Google Gemini (primary) + OpenAI fallback
 
@@ -11,7 +11,7 @@ Provides empathetic emotional support
 
 Supports English, Hindi, Kannada, Marathi, Telugu, and Urdu
 
-📊 Mood & Wellness Tools
+###📊 Mood & Wellness Tools
 
 Mood tracker
 
@@ -21,19 +21,19 @@ Dream logging
 
 Sleep sound library
 
-🩺 Assessments
+###🩺 Assessments
 
 WHO-5 Well-Being Index
 
 GAD-7 Anxiety Assessment
 
-💬 Anonymous Community
+###💬 Anonymous Community
 
 Share posts safely
 
 Like and interact anonymously
 
-📅 Counselling & Safety Support
+###📅 Counselling & Safety Support
 
 Book counselling appointments
 
@@ -41,7 +41,7 @@ Add emergency contacts
 
 Access crisis helplines instantly
 
-📈 Dashboards
+###📈 Dashboards
 
 Student Dashboard – Mood history, patterns
 
@@ -49,7 +49,7 @@ Admin Dashboard – Activity overview
 
 Institution Dashboard – Anonymous well-being analytics
 
-🛠️ Tech Stack
+###🛠️ Tech Stack
 Frontend
 
 React.js
@@ -80,7 +80,7 @@ Google Gemini API
 
 OpenAI API
 
-📂 Project Structure
+###📂 Project Structure
 MindSpace/
 │
 ├── frontend/
@@ -93,7 +93,7 @@ MindSpace/
     ├── db.json
     └── .env
 
-▶️ Installation & Setup
+###▶️ Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/mindspace.git
 cd mindspace
@@ -124,7 +124,7 @@ npm run dev
 
 Frontend runs at: http://localhost:5173
 
-🧪 Testing
+###🧪 Testing
 ✔ Functional Testing
 
 Mood tracker, journals, dreams, appointments, emergency contacts, assessments, community, dashboard.
@@ -137,7 +137,7 @@ All API routes tested using Postman/Thunder Client.
 
 Responsive UI, form validation, component behavior, navigation flow.
 
-🔐 Security
+###🔐 Security
 
 Firebase Authentication for secure login
 
@@ -145,7 +145,7 @@ No passwords stored locally
 
 All user data stored in LowDB securely
 
-🔮 Future Scope
+###🔮 Future Scope
 
 Counsellor dashboard
 
@@ -155,7 +155,12 @@ More regional languages
 
 Mobile app (Android/iOS)
 
-👩‍💻 Author
+### 🎥 Project Demo
+Watch the full demo here:  
+🔗 https://drive.google.com/file/d/1DjbCKxWWB4EDREVVyEBimrfHQTVPTrIs/view?usp=drive_link
+
+
+##👩‍💻 Author
 
 Shaguftha Nikhar
 Pre Final Year Project – AI Mental Health Support System
